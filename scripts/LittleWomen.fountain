@@ -1,4 +1,6 @@
 Title: Little Women
+The Broadway Musical
+
 Book: Allan Knee
 Lyrics: Mindi Dickstein
 Music: Jason Howland
@@ -7,13 +9,14 @@ Copyright: Music THEATRE INTERNATIONAL
 Address: 421 West 54th Street
 New York NY 10019
 (212) 541-4684
-Copyright © All Rights Reserved. 
+/* 
+[[Page iii]]
 CHARACTERS
 JO MARCH
 PROFESSOR BHAER
 AMY MARCH
 MEG MARCH
-_ BETH MARCH
+BETH MARCH
 MARMEE MARCH
 MR. LAURENCE
 LAURIE LAURENCE
@@ -28,192 +31,213 @@ HAG
 TROLL
 RODRIGO 2
 OPTIONAL: MONKS, CHORUS OF HAGS, CHORUS OF TROLLS
-— ii —
-MusIcAL NUMBERS
-AcT 1
-OO. QOUCTEULE ccccccccccceseccreveeceeeeeeceesseeeeeeeeeeeeeeEALEEEOEEEEROREEEEAEEEEEEER ELLE EEEEEEEE EEE DEL E UE TEELE ELE 1
-1. An Operatic Tragedy ..ccccccccereser ert eieene tenes stent teeeeneeeces 1g9080005R650R6080500H860 2
-0 11s TTT TE TE TTETITEEIEPESOOETETTETOETETUTOOTEOTOTOESEOSTESESOTECOOOCOOSOOSSSSESSIIOCOOOOOIOOSS 5
-3. Ottr Firrest Dreaiis .cccccccsecccecccceneceeeeeeeeeeeneeteee ene ee tees eeebeeGOECEOEE DEEDES EEA e EEE TEE EE EEE E AREA EEE 6
-3a. Transition To March Parlor ....cccccccccccccecccrcscenetet teeter nen ner teereeeeeeenees 11
-Bb. Letter UNderscore .....csccceccccscccecccessncneeeeesee ee ee eee eet nee EAE CoE PEELED OE EEE EEE EEE EERE E EES 16
-A, Here Alone ccccccccccccccccececseeeet ene ceee cnet eee e cette ODE LEELA ELLE EEL TLL ELLE SEED E SEE EEAEEEEEEEEEEOY 17
-4a. Transition To Aunt Marcl.....cccccccccccccccessseece tent enenee eee e nee etn een eee eee nen EE EEE EEE erate 18
-5. COULA YOU cccccccccceccccseeseeceeseneneccesesneeeeseeeeeeeeeeeeteeeestDIAGCESE ELEC SPEED EEEIAEEE EERE A EEEEEE OCS 20
-5a. Could You — Playoff/Transition .....c.cccscssceseeseetsete teeters nents nsec ees 24
-6. Delighted ..cesccsccssesssccce eee eee eee ees eee eee eee ER ETE REEL EE TEESE ERSTE 25
-7. Delighted — Reprise .....-sscsceccceseesere sense tected 30
-7a. Moffat Underscore ..c.cccccececrcceencrssere secs e ete tenet e en Eee EES Sn 33
-B. Take A Chance O11 Me vicccccccceecccncceesereteenee en eee e ence geen eee e cnet e tebe AEA E EEE EERE TEETER EO 34
--9. Take A Chance On Me ~ Transition .......ccccccccccccceseeseeecaeeeeeeeeeeen ere ennesenneeenenee riage 37
-10. Better —RepriSe.....ccccccccseeeeeneen een er eee ene e eee tee TEE E NEEL REE TREO C re tae 42
-"ZO a. Concord Trattsition .occcccccccccceccccseeceeee een eee eee e eee ete tEE Eee ee COU DEEL DEEL EAGT EERE AEE TEESE Ea ae 43
-11. Off To Massachusetts......ccsccccccsescsecesscseeenecenene tener ren etree cn ere ee eee genta 46
-12, Five FOrCuer cccccccccscccccsccccccctecee nn eneee eee cde t EERO EE ELE ED EEE EEE ED EEEEED EDEL EOE ODEEOOUAEEE CES EEEOES 50
-13. TYANSELION .....cccccccccecevesecseeccnenee scene enn ek eeEEDEEEEEEEEEEEEE REE EEEEDEEEEE EEE EECA EUAEEGDEESEE EAE EE® 53
-14. More Thatt I At ....ccccccceseeeeeeeees Spo DeHO ROE geno ooe5oe0o000000eNBK1en0r000008N8D0000070000000 59
-14a, Transition To AELtic .....ccccccccccscsetssetenrr nee eeee rest ee beeen ce ee eee EEE DEED DEE EEE TREE SESE OC Ea EEE eg EE eats 62
-15. Take A Chance O1t Me —Reprise ..ccccccccccccccceetene eee neee nee ete 65
-16. AStOMISHING ....ccccceeeeeeeteee tenes heceeevsnecceecseenseneeepessaaneesaveceesssanegneaeseneeeanesarspaneesres 66
-AcT 2
-5 On 811 a ak 10) <I EET EITOIIOOOSEEOESSOSOCETOOOIOOCOOSIOOOOOOOOOOOID evdeneeeceseeneeeeteesees 68
-18. The Weekly Volcano Press...ccsccceceseerenese sett ent ete ee tee EEE 70
-18a. NYC To Concord —Trantsttion ...cccccccccccccce cece eect ener eee eee eR EE eee renee 81
-18b. Beth Plays Piano ...ccccccsccccsccete cee ent ee ete ete EET 83
-19. Off To Massachusetts — Reprise ......cccsccccceccit tenet et ee 84
-19a. Jo To Professor Bhaer Transition ......ccccccer ere ten tt ee 84
-OZ 0 (oe 01, EOE TEE E TINO TU ETOOTOOOOIISCESOOTOSSESOEOOOOIOOOOOESOCOOO OOO85
-QO. To Thre Beach ..cccccccccvececceseseccceeeeec een eee e bene een E CERT ENTREE ECU EEE LAA EEL LAE EUE ETERS EEDA OEE TELA 87
-21. Some Things Are Meant To Be..sisiccecreceee tet re88
-—~iv—
-22. The Most Amazing THItg ..ccccccccccccccccecssssssssccenseessasseseecerensseteeseesenstsenseeeceneasers 96
-22a. To The AEC... cecccccccessecceeensncesseneeeetenseeeseaeeeescsnsseeeeccssesssesesssssstensesesensanaterens 99
-23. Days Of PLOHty ccccssccssssscsssssessssssesssssesessssessssicssssenssseeessnes seveeeessecasnusesvestensvenees 101
-24. The Fire Withint Me cesccccsssssssssssssssssssssssusssisvassssssassssssisssestsasassusssseessece 102
-24a. After Fire Withitt Me .cc.ceeccccsccesetcetsseescsecenteecsteeeesssessssacecesstesessevsseeesnnaeecnas 103
-24b. Professor Bhaer Entrance ....ccccscesscees vesessusseesiseessusesssessusnessssvessssuessesessees 107
-25. Small Umbrella In The Raitt.ccceccccccccccsccsssssssssscscsssssvssssessestssessessessesesseaes sues 110
-26. Volcano REPYISC .oessccsesssessessesssessesssessessessessessseecseseeeeseee eonosoo09oos8ss0nsAADooo5poq0506 114
-27. BOWS voceeiseccsccssstecetcsenteeseeenenteeeenaeesseaeecesaeeeeeeaaaeeessesaeeseseesnseeessesuesecsuusseeesennnas 115
-28. Exit MUSIC... eciccccccccccsceessceeccecnaeesesaeeessessesenseeeeeessseesseeeesssescesssusaestuauteseeersats 115
-SONGS BY
-CHARACTER
-jo
-1. An Operatic Tragedy .....-..-- 2
-3, Our Finest Dreams ......+.-5> 6
-5. Could You .... 0. cee eee 20
-6. Delighted .... 060s eee 29,
-10. Better Reprise ...---.+4+-- 42
-12, Five Forever .. 0... e eee50
-16. Astonishing ...-..-0 52 ere ee 66
+
+[[Page iv]]
+MUSICAL NUMBERS
+
+## ACT 1
+OO. Overture ... 1
+1. An Operatic Tragedy ... 2
+2. Better ... 5
+3. Our Finest Dreams ... 6
+3a. Transition To March Parlor ... 11
+3b. Letter Underscore ... 16
+4. Here Alone ... 17
+4a. Transition To Aunt March ... 18
+5. Could You ... 20
+5a. Could You - Playoff/Transition ... 24
+6. Delighted ... 25
+7. Delighted - Reprise ... 30
+7a. Moffat Underscore ... 33
+8. Take A Chance On Me ... 34
+9. Take A Chance On Me - Transition ... 37
+10. Better - Reprise ... 42
+10a. Concord Transition ... 43
+11. Off To Massachusetts ... 46
+12. Five Forever ... 50
+13. Transition ... 53
+14. More That I Am ... 59
+14a. Transition To Attic ... 62
+15. Take A Chance On Me - Reprise ... 65
+16. Astonishing ... 66
+
+## ACT 2
+17. Entr'acte ... 68
 18. The Weekly Volcano Press ... 70
-21. Some Things Are
-Meant To Be ... 6.00 eer er eee 88
-24, The Fire Within Me ......-- 102
-25. Small Umbrella In The Rain . .110
-26. Volcano — Reprise .......-+-- 114
-PROFESSOR BHAER
+18a. NYC To Concord - Transition ... 81
+18b. Beth Plays Piano ... 83
+19. Off To Massachusetts - Reprise ... 84
+19a. Jo To Professor Bhaer Transition ... 84
+20. How I Am ... 85
+20a. To The Beach ... 87
+21. Some Things Are Meant To Be ... 88
+
+[[Page v]]
+
+22. The Most Amazing Thing ... 96
+22a. To The AEC ... 99
+23. Days Of Plenty ... 101
+24. The Fire Within Me ... 102
+24a. After Fire Within Me ... 103
+24b. Professor Bhaer Entrance ... 107
+25. Small Umbrella In The Rain ... 110
+26. Volcano REPRISE ... 114
+27. BOWS ... 115
+28. Exit MUSIC ... 115
+
+[[Page vi]]
+SONGS BY CHARACTER
+## JO
+1. An Operatic Tragedy ... 2
+2. Better ... 5
+3. Our Finest Dreams ... 6
+5. Could You ... 20
+6. Delighted ... 25
+10. Better Reprise ... 42
+12. Five Forever ... 50
+16. Astonishing ... 66
 18. The Weekly Volcano Press ... 70
-20. Howl Am oo... cece ee ee 85
-25. Small Umbrella In The Rain . .110
-MARMEE
-4. Here Alone... 0.0202. ere 17
-6. Delighted . 00... ever ee 28
-19. Off To Massachusetts Reprise .84
-23. Days Of Plenty ....--+++-5 101
-AMY
-3. Our Finest Dreams ........--> 6
-12. Five Forever... 6... eee 50
-22. The Most Amazing Thing 96
-MEG
-3. Our Finest Dreams ....----0-- 6
-6. Delighted 00... 002. e eee 28
-12. Five Forever... 0.6 ee es 50
-14. More Than | Am... 6-00 ee 59
-19. Off To Massachusetts Reprise .84
-BETH
-3. Our Finest Dreams
-6. Delighted ©... - 00 eee
-11. Off To Massachusetts
-12. Five Forever
-19. Off To Massachusetts Reprise
-21. Some Things Are
-Meant To Be
-MR. LAURENCE
-11. Off To Massachusetts ......-.
-19. Off To Massachusetts Reprise
-LAURIE
-8. Take A Chance On Me........-
-9. Take A Chance Transition
-12. Five Forever
-15. Take A Chance Repise
-22. The Most Amazing Thing
-AUNT MARCH
-5. Could You
-CLARISSA, BRAXTON, RODRIGO
-1. An Operatic Tragedy
-18. The Weekly Volcano Press ....
-MRS. KIRK
-18. The Weekly Volcano Press ....
-MR. BROOKE
-14. More Than [Am .... 00-205
-19. Off To Massachusetts Reprise
-HAG, TROLL, KNIGHT, RODRIGO 2
-18. The Weekly Volcano Press ....
-88
-46
-84 
-CHARACTERS BY SONG
-Act
-1. An Operatic Tragedy be ceeceneeenseeeteesaeeeeeaeseeeetaeseeeeeeseeeeceees JO, CLARISSA,BRAXTON, RODRIGO
-D, Better ....ccccccccccsecccccrcececcceeseeseeeeee ee eeeeeueeeeeeee eae eeeeueeEEEGAAALEEEG EEE EGA EEE EEEGHEES;EAA GEESE EEIGULEDEL Eo ee pe tEG EEE EEeEEEEEEea JO
-3, Our Finest Dreams ......cccccccccnseseceeeneeceeceeeaaeeeeseceeeeansaeeceaaeeteeeeeresesgenee JO, MEG, BETH, AMY
-A, Here AlOmEe ..ccccccccccccccccccececeesennneeeneeneeeeeee eee eeee aaa nen eneaneeeeneneneeeeesesenteeeeeeetegersctetennnnsnies _sMARMEE
-5, COUld YOU .ccccccccccccccccceseseseccesensseeceeeeesseneeeeeeeeeeeeeeeeenneenaeeeeeeeeeeeceeeeennaeeassadeesaie AUNT MARCH, JO
-6. Delighted v.cccccsssssssesesessssssssssssssssesessssssnnnseeecsssnseecesanssneuseesnnseecessnnie MARMEE, MEG, JO, BETH
-8. Take A Chance On Me oun. cccccccccccccccceceeeeeecceceeeeeveneeeeenaeesennaers octets bebe ceegeeneeseeseneeeaes LAURIE
-9. Take A Chance — Transition .......ccccccccccccccccccccerceeeesennnaeneeceeeeaeeenesseesnaaaeaneeeeeseesavecotsseseenees LAURIE
-10.. Better — Ro gl See JO
-11. Off To Massachusetts... ccccccccccecccsesceeesceeeeeseeesessseeseecseeeeseeseseeaeeeeeees BETH, MR. LAURENCE
-12. Five FOrever wo. cece eee tenet ree Ce re nna JO, LAURIE, AMY, MEG, BETH
-14. More Than LAM 0... .cccececcccce cece cece eens e eee e eee eee een EE EE GEER EEE EEE En EMME EGE E Eo MR. BROOKE, MEG
-15. Take A Chance — Reprise oo... cece ee cite ee eteccne cena e eee cieetenecertneceesieeseeeeeneetieesnenerey LAURIE
-16. AStONiSHING ..... cee eee cece eeeee eens ene eeneee ene ee ceeeneeeneeeeaeeeneneeceeenseensneeseecneeteenneriertireencennseneee JO
-Act 2 .
-18. The Weekly Volcano Press...........:006 JO, BRAXTON, CLARISSA, RODRIGO, HAG, TROLL,
-poe ebeecsececeeenaeeeceeeeeteaueneceneeeesnaeeeeees KNIGHT, RODGRIGO 2, MRS. KIRK, PROFESSOR BHAER,
-co aeeceeeeeeedeceeeeeaneteeeeeeeeeeeseeneeees OPTIONAL: MONKS,CHORUS OF HAGS, CHORUS OF TROLLS
-19. Off To Massachusetts — Reprise...... MR. LAURENCE, BETH, MARMEE, MEG, MR. BROOKE
-20. HOW LAM .oceececscsseessseeseeseseeseesesecneonesetsusenevesnecsaceesessaeeseesensesusesssesatseeanenseeees PROFESSOR BHAER
-21. Some Things Are Meant To Be.......cccccceeceeee cece eet e eet e tenet tne eeteeeeneeereeeneeneecernieees JO, BETH
-22. The Most Amazing THIing 0.0... cccccccetssceeeeteeenseeectieeeeseeneeeeneeesneeeeeneeernseeeeeens AMY, LAURIE
-23. Days Of Plenty ........ cece SPE TEEEET EOE EESTEEOEETESESSOOOOSSILESSSESOESSSSSEESEOSTOSESSENSTSESS MARMEE
-24, The Fire Within Mei. cccccccccccccecccc cece ee eee cea eee eet teee eee nnn eer EE SE eAAA AEDES SAH EECCAe oS CERES etAaeHA Eee eet aap ea EEeS JO
-Peay ern VU Ore longa LEW Kal Net) | |SX-V1lG Sensogessesennanoscoscensacaones-cesocase6ene=qodaea.eescee50050 PROFESSOR BHAER, JO
-26. Volcan —REPLis@..... ccc ecccceencce tenses eter e eben nnn A Ee ee CE Ee EEE ELLA U GUHA RE SE EEEE SEE AGE EC SEAS EES CaaEHC AEG eeeeteaeECneate® JO
-— vii —
-AUTHOR’S NOTES
-Doubling. When “Little Women” was produced on Broadway, it
-was performed with a cast of 6 women and 4 men who played 18
-individual roles. The doubling was as follows:
-Women:
-1-Jo
-2 —- Marmie, Hag_
+21. Some Things Are Meant To Be ... 88
+24, The Fire Within Me ... 102
+25. Small Umbrella In The Rain ... 110
+26. Volcano - Reprise ... 114
+
+## PROFESSOR BHAER
+18. The Weekly Volcano Press ... 70
+20. How I Am ... 85
+25. Small Umbrella In The Rain ... 110
+
+## MARMEE
+4. Here Alone ... 17
+6. Delighted ... 25
+19. Off To Massachusetts Reprise ... 84
+23. Days Of Plenty ... 101
+
+## AMY
+3. Our Finest Dreams ... 6
+12. Five Forever ... 50
+22. The Most Amazing Thing ... 96
+
+## MEG
+3. Our Finest Dreams ... 6
+6. Delighted ... 25
+12. Five Forever ... 50
+14. More Than I Am ... 59
+19. Off To Massachusetts Reprise ... 84
+
+## BETH
+3. Our Finest Dreams ... 6
+6. Delighted ... 25
+11. Off To Massachusetts ... 46
+12. Five Forever ... 50
+19. Off To Massachusetts Reprise ... 84
+21. Some Things Are Meant To Be ... 88
+
+## MR. LAURENCE
+11. Off To Massachusetts ... 46
+19. Off To Massachusetts Reprise ... 84
+
+## LAURIE
+8. Take A Chance On Me ... 34
+9. Take A Chance On Me - Transition ... 37
+12. Five Forever ... 50
+15. Take A Chance - Reprise ... 65
+22. The Most Amazing Thing ... 96
+
+## AUNT MARCH
+5. Could You ... 20
+
+## CLARISSA, BRAXTON, RODRIGO
+1. An Operatic Tragedy ... 2
+18. The Weekly Volcano Press ... 70
+
+## MRS. KIRK
+18. The Weekly Volcano Press ... 70
+
+## MR. BROOKE
+14. More Than I Am ... 59
+19. Off To Massachusetts Reprise ... 84
+
+## HAG, TROLL, KNIGHT, RODRIGO 2
+18. The Weekly Volcano Press ... 70
+
+# CHARACTERS BY SONG
+## Act 1
+1. An Operatic Tragedy ... JO, CLARISSA,BRAXTON, RODRIGO
+2. Better .... JO
+3. Our Finest Dreams ... JO, MEG, BETH, AMY
+4. Here Alone ... MARMEE
+5. Could You ... AUNT MARCH, JO
+6. Delighted ... MARMEE, MEG, JO, BETH
+8. Take A Chance On Me ... LAURIE
+9. Take A Chance - Transition ... LAURIE
+10. Better - Reprise ... JO
+11. Off To Massachusetts ... BETH, MR. LAURENCE
+12. Five Forever ... JO, LAURIE, AMY, MEG, BETH
+14. More Than I Am ... MR. BROOKE, MEG
+15. Take A Chance - Reprise ... LAURIE
+16. Astonishing ... JO
+
+## Act 2
+18. The Weekly Volcano Press ... JO, BRAXTON, CLARISSA, RODRIGO, HAG, TROLL, KNIGHT, RODGRIGO 2, MRS. KIRK, PROFESSOR BHAER, OPTIONAL: MONKS, CHORUS OF HAGS, CHORUS OF TROLLS
+19. Off To Massachusetts - Reprise ... MR. LAURENCE, BETH, MARMEE, MEG, MR. BROOKE
+20. HOW I AM ... PROFESSOR BHAER
+21. Some Things Are Meant To Be ... JO, BETH
+22. The Most Amazing Thing ... AMY, LAURIE
+23. Days Of Plenty ... MARMEE
+24. The Fire Within Me ... JO
+25. Small Umbrella In The Rain ... PROFESSOR BHAER, JO
+26. Volcano - Reprise ... JO
+
+[[Page viii]]
+AUTHOR'S NOTES
+Doubling. When “Little Women” was produced on Broadway, it was performed with a cast of 6 women and 4 men who played 18 individual roles. The doubling was as follows:
+
+## Women
+1 - Jo
+2 - Marmie, Hag_
 3 - Meg, Clarissa
 4 - Amy, Troll
 5 - Beth, Rodrigo 2
 6 - Aunt March, Mrs. Kirk
-Men::
+
+## Men
 1 - Professor Bhaer
 2 - Laurie, Rodrigo
-3 —- Mr. Brooke, Braxton
-4 — Mr. Laurence, Knight
+3 -- Mr. Brooke, Braxton
+4 - Mr. Laurence, Knight
+
 Undoubling is encouraged where cast size is not a financial issue.
-The 18 roles enumerated above can be played by 18 different actors,
-or the roles may bé played by a cast ranging in size from 10 to 18
-actors.
-Chorus. In addition to the above casting options, this script also
-contains notations (both in the text and in the score) for the addition
-of achorus. The size of the chorus is variable and can be as small as
-12 (6 women and 6 men) or as large as 24 (12 women and 12 men).
+
+The 18 roles enumerated above can be played by 18 different actors, or the roles may bé played by a cast ranging in size from 10 to 18 actors.
+
+### Chorus
+In addition to the above casting options, this script also contains notations (both in the text and in the score) for the addition of achorus. The size of the chorus is variable and can be as small as 12 (6 women and 6 men) or as large as 24 (12 women and 12 men).
+
 These include:
-Dancers at the Ball (12 - 24)
-Ice Skater/ Dancers (12 - 24)
-Hags (up to 8 girls)
-Trolls (up to 4 girls, 4 boys)
-Monks (up to 8 boys)
-Beachcombers (up to 10) 
-LitTL&E WomMeEN - 7 —-
-ACT ONE
-SCENE 1
-#00 — Overture
-(MRS. KIRK’S NYC BOARDING HOUSE: #1 - January 1865.
+- Dancers at the Ball (12 - 24)
+- Ice Skater/ Dancers (12 - 24)
+- Hags (up to 8 girls)
+- Trolls (up to 4 girls, 4 boys)
+- Monks (up to 8 boys)
+- Beachcombers (up to 10)
+*/
+
+[[Page 1]]
+# ACT ONE
+## SCENE 1
+### 00 - Overture
+INT - MRS. KIRK'S NYC BOARDING HOUSE: #1 - January 1865.
+
 Lights come up on PROFESSOR BHAER, a German professor in his mid to late 30's.
-HE is quite proper. HE calls with authority.)
+
+HE is quite proper. HE calls with authority.
+
 PROFESSOR BHAER
 Miss March! Another letter has arrived for you! Miss March!
-(JO MARCH, an impassioned girl of 19, shouts loudly from off stage. The
-PROFESSOR reacts)
+
+JO MARCH, an impassioned girl of 19, shouts loudly from off stage. The PROFESSOR reacts
+
 JO
 (Offstage)
 Mrs. Kirk, the mutton you ordered is on the kitchen table!
@@ -223,151 +247,188 @@ Thank you, Professor!
 Christopher Columbus! Another publisher.
 (SHE looks at the Professor)
 Another rejection?
+
 PROFESSOR BHAER
-[have no idea. I do not read your letters. But they keep arriving and I keep
-bringing them to you.
+I have no idea. I do not read your letters. But they keep arriving and I keep bringing them to you.
+
 JO
 And I keep hoping -
+
 PROFESSOR BHAER
-We all keep hoping for your success, Miss March. The entire boarding house keeps
-hoping. You have us all on edge.
+We all keep hoping for your success, Miss March. The entire boarding house keeps hoping. You have us all on edge.
+
 JO
 (SHE reads)
-“My dear Miss March. I read your story.’ Well, he’s read it. ‘Unfortunately...
-unfortunately T found your tale tasteless and vulgar. Not at all suitable for my
-readers. My advice to you~
-(SHE hands him the letter) 4 
-i)
-LITTLE WOMEN
-#1—An Operatic Tragedy
+“My dear Miss March. I read your story."
+Well, he's read it.
+"Unfortunately...unfortunately I found your tale tasteless and vulgar. Not at all suitable for my readers. My advice to you-"
+
+SHE hands him the letter
+[[Page 2]]
+
 PROFESSOR BHAER
 (HE reads)
-“My advice to you is to return home and have babies. This is what women are made
-for. Sincerely F. Putnam.’
+“My advice to you is to return home and have babies. This is what women are made for. Sincerely F. Putnam."
+
 JO
 Twenty-two.
+
 PROFESSOR BHAER
-Twenty-two? .
-jo
-Twenty-two rejections since I’ve been in New York. They all say the same thing. Go
-home. Give up.
+Twenty-two?
+
+JO
+Twenty-two rejections since I've been in New York. They all say the same thing. Go home. Give up.
+
 PROFESSOR BHAER
 F. Putnam is an idiot. His words are stupid.
-Jo
-F. Putnam is one of the most powerful publishers in the city.
-PROFESSOR BHAER
-You cannot lose faith, Miss March. There will be someone who will like your story. I
-am certain of it...
+
 JO
-Professor Bhaer? Is it possible I could read my story to you? I would so respect your
-opinion.
+F. Putnam is one of the most powerful publishers in the city.
+
+PROFESSOR BHAER
+You cannot lose faith, Miss March. There will be someone who will like your story. I am certain of it...
+
+JO
+Professor Bhaer? Is it possible I could read my story to you? I would so respect your opinion.
+
 PROFESSOR BHAER
 Yes. Of course.
+
 JO
 (SHE joyfully grabs her portfolio)
-Actually, it’s one of my best.
+Actually, it's one of my best.
 (SHE settles in: Reads)
-‘It’s a mean and stormy night. The moors are bleak and bloody. Thunder claps!
+'It's a mean and stormy night. The moors are bleak and bloody. Thunder claps!
 Lightning strikes!
 The fair Clarissa, her clothes in disarray, races across the wild coastal heath -
 (CLARISSA appears on A WILD HEATH)
-NOW SHE STOPS!
-NOW SHE RUNS!
-WILL SHE ESCAPE? 
-LitTTLe WOMEN =
+~NOW SHE STOPS!
+~NOW SHE RUNS!
+~WILL SHE ESCAPE? 
+
+[[Page 3]]
 (JO)
-WILL SHE BE CAUGHT?
+~WILL SHE BE CAUGHT?
 With bold determination, the villainous aristocrat Braxton Prendergast, lurches for her -
 (BRAXTON appears)
-THERE’S NO ESCAPE:
-SHE'S BUT A CHILD. .
-AND YET SHE TURNS TO FIGHT WITH EYES ABLAZE!
-THIS NOBLE GIRL MEETS HIS GAZE, UNAFRAID.
-SHE WILL NOT BE DEFILED!
+~THERE'S NO ESCAPE:
+~SHE'S BUT A CHILD. .
+~AND YET SHE TURNS TO FIGHT WITH EYES ABLAZE!
+~THIS NOBLE GIRL MEETS HIS GAZE, UNAFRAID.
+~SHE WILL NOT BE DEFILED!
+
 CLARISSA & JO
 Keep away from me, you wretch!
+
 BRAXTON & JO
 I cannot keep away. Your.beauty draws me. Your passion ignites me.
 (JO continues to mouth and act out the story)
 I'VE GOT TO HOLD YOU.
+
 CLARISSA & JO
-[ DEFY YOU!
+I DEFY YOU!
+
 BRAXTON
 GOT TO HAVE YOU
+
 CLARISSA
 LET ME BY YOU!
+
 BRAXTON
 COME CLOSE -
+
 CLARISSA
-DON’T COME TOO CLOSE -
+DON'T COME TOO CLOSE -
+
 BRAXTON
 COME CLOSE -
+
 CLARISSA
-DON’T COME TOO CLOSE -
-BRAXTON& CLARISSA
+DON'T COME TOO CLOSE -
+
+BRAXTON & CLARISSA
 SO CLOSE, SO CLOSE TO ME
+
 BRAXTON
 (Front)
-_ Tl have her. And the mother too. 
-LITTLE WOMEN
+I'll have her. And the mother too. 
+
+[[Page 4]]
 JO
 And at that moment, Rodrigo appears in magnificent splendor!
+
 RODRIGO & JO
 (HE appears, brandishing a sword)
 Unhand that woman, villain!
+
 BRAXTON, CLARISSA & JO
 Who are you?
+
 RODRIGO & JO
-TAM YOUR DESTINY!
-YOUR BITTEREST FOE!
+~I AM YOUR DESTINY!
+~YOUR BITTEREST FOE!
+
 RODRIGO
-YOU STOLE WHAT WAS RIGHTLY MINE
-TEN LONG YEARS AGO!
-YOU LEFT ME COLD, ALONE AND FORGOTTEN,
-NOW I’M BACK TO SETTLE THE SCORE!
+~YOU STOLE WHAT WAS RIGHTLY MINE
+~TEN LONG YEARS AGO!
+~YOU LEFT ME COLD, ALONE AND FORGOTTEN,
+~NOW I'M BACK TO SETTLE THE SCORE!
+
 PROFESSOR BHAER
 (Interrupting her diplomatically)
 Miss March!
 (HE smiles at her)
 Tell me, what is it you are writing here?
-Jo
-Blood-and-guts stuff. It’s all the rage. The magazines and periodicals are full of it.
+
+JO
+Blood-and-guts stuff. It's all the rage. The magazines and periodicals are full of it.
+
 PROFESSOR BHAER
 Violence and seduction on every page?
+
 JO
 Read Shakespeare. Read history. Read the newspapers.
+
 PROFESSOR BHAER
-Tt is getting late. Perhaps it is best we pursue this some other time.
-ie)
+It is getting late. Perhaps it is best we pursue this some other time.
+
+JO
 No. I want to know what you think, Professor.
+
 PROFESSOR BHAER
-Blood and guts stuff? What you think the world wants to hear? If I have noticed
-nothing else about you, Miss March, I have noticed you are unique. Something you
-should try not to forget. [ think you could do better. 
-Littec Women —~ 5 -
+Blood and guts stuff? What you think the world wants to hear? If I have noticed nothing else about you, Miss March, I have noticed you are unique. Something you should try not to forget. [ think you could do better. 
+
+[[Page 5]]
 JO
 (taken aback)
 Better? ... And who are you anyway: an aging German professor, close to 50 - ?
+
 PROFESSOR BHAER |
 (taken aback)
-Tam 34. .
+I am 34.
+
 JO
 34, really? Well - you look a lot older.
-_ PROFESSOR BHAER
+
+PROFESSOR BHAER
 I worry a lot.
+
 JO
 And just what do you worry about?
+
 PROFESSOR BHAER
 How to avoid a conversation such as this! Now I will go to dinner.
 (HE starts away, immediately turns back)
-Miss March, since you have been here - six weeks now, is it? - you shout, you rant,
-you upset the whole order of this boarding house. Iam a serene and peaceful man.
+Miss March, since you have been here - six weeks now, is it? - you shout, you rant, you upset the whole order of this boarding house. Iam a serene and peaceful man.
+
 JO
 You're aloof, you're arrogant -
+
 PROFESSOR BHAER
-Arrogant? Miss March, I spoke my mind, as you spoke yours. Obviously, it was not
-appreciated on either side. ,
-(HE goes) ; a
+Arrogant? Miss March, I spoke my mind, as you spoke yours. Obviously, it was not appreciated on either side.
+(HE goes)
+
+### #2 - Better
 JO
 Obviously!
 (HE goes)
@@ -377,17 +438,17 @@ BETTER?
 BETTER THAN WHAT?
 BETTER THAN THIS DAZZLING PLOT?
 BETTER?
-THIS STORY WILL BE MY ‘KING LEAR’. 
-—~ 6 — LITTLE WOMEN
+THIS STORY WILL BE MY 'KING LEAR'. 
+-~ 6 - LITTLE WOMEN
 (JO)
 EACH PHRASE IS BETTER.
 BETTER THAN HIM.
 BETTER! EVEN MY SMALLEST WHIM
 IS BETTER!
-HOW CAN HE MISS WHAT’S SO CLEAR?
+HOW CAN HE MISS WHAT'S SO CLEAR?
 HOW CAN I DO BETTER THAN WHAT'S ALREADY HERE?
 HOW CAN WHAT HE SAID TO ME BE TRUE?
-IF 1 DON’T SUCCEED, WHAT WILL | DO?
+IF 1 DON'T SUCCEED, WHAT WILL | DO?
 TURN AROUND, GO BACK TO CONCORD?
 LEAVE NEW YORK BEHIND UNCONQUERED? NO!
 HOW DARE HE MAKE ME DOUBT THE WAY I FEEL?
@@ -418,14 +479,14 @@ LitTTLce Women -
 BETH
 And we're going to perform it for Christmas!
 AMY
-No, I can’t! Not with my flat nose.
+No, I can't! Not with my flat nose.
 MEG
-(Coming in on Amy's ‘no’s)
-Jo, do you really think we should? What with this awful war —
+(Coming in on Amy's 'no's)
+Jo, do you really think we should? What with this awful war -
 jo
 When have we let anything defeat us? Years from now people will talk about us:
-‘One Christmas Eve four penniless and ragged sisters put on an Operatic Tragedy for
-all of Concord!’
+'One Christmas Eve four penniless and ragged sisters put on an Operatic Tragedy for
+all of Concord!'
 AMY , BETH & MEG
 All of Concord! Oh, Jo, no!
 JO
@@ -455,8 +516,8 @@ LITTLE WOMEN
 ONLY PASSION IS PERMISSABLE.
 THIS TRAGEDY DEPENDS UPON
 THE FIRE IN YOUR EYES.
-AND BETH: WHEN YOU’RE THE MOTHER,
-YOU’LL BE NOBLE, YOU’LL BE PURE.
+AND BETH: WHEN YOU'RE THE MOTHER,
+YOU'LL BE NOBLE, YOU'LL BE PURE.
 ALL HEARTS WILL MELT THE MOMENT MOTHER CRIES!
 Let us begin!
 MEG
@@ -464,18 +525,18 @@ Ah hah!
 BETH
 Oooohhh!!
 AMY
-‘Mother! Dear Mother, do not cry!’
+'Mother! Dear Mother, do not cry!'
 JO
 No, no! Expression, Amy! From the heart!
 (With excessive emotion)
-‘Mother! Dear Mother, do not cry!’
+'Mother! Dear Mother, do not cry!'
 AMY
-‘Mother! Dear Mother -’ Jo! I am teased and ridiculed at school and all that
+'Mother! Dear Mother -' Jo! I am teased and ridiculed at school and all that
 concerns you is your silly little tragedy! e
 IT KNOW YOU'RE TIRED,
-I KNOW IT’S HARD.
+I KNOW IT'S HARD.
 BUT WE WILL TRIUMPH WHEN
-RODRIGO YELLS ‘EN GARDE’!
+RODRIGO YELLS 'EN GARDE'!
 MEG & BETH
 Touché!
 JO
@@ -490,29 +551,29 @@ Joz..
 LITTLE WOMEN a
 (popping up)
 Jo
-I made an important decision today: as you all know I’ve been writing stories
+I made an important decision today: as you all know I've been writing stories
 forever. With much satisfaction. And people seem to like what I write.
 We love it, Jo.
 BETH
 JO
-Absolutely. So I’ve decided I’m going to become a world-renowned writer. I shall
-write great books and earn barrels of money. And I'll give you all everything you’ve
+Absolutely. So I've decided I'm going to become a world-renowned writer. I shall
+write great books and earn barrels of money. And I'll give you all everything you've
 ever dreamed of!
 AMY BETH MEG
 Oh, Jo! Jo can do anything! Jo!
 JO
 But we have to promise to remain just as we are. Solid like a fortress. No matter
-whatever happens, we must promise that it'll always be the four March sisters — forever!
+whatever happens, we must promise that it'll always be the four March sisters - forever!
 Forever!
-Come, let’s rehearse!
-“Mother, dear mother, do not cry!’
-“Not my daughter, you wretch!’
-‘You will have me or no one!’
-‘No one!’
+Come, let's rehearse!
+“Mother, dear mother, do not cry!'
+“Not my daughter, you wretch!'
+'You will have me or no one!'
+'No one!'
 MEG, BETH -& AMY
-BEFORE WE’RE DONE,
+BEFORE WE'RE DONE,
 THE CROWD WILL ROAR.
-WE’LL MAKE THEIR
+WE'LL MAKE THEIR
 SPIRITS SOAR!
 OUR SUCCESS IS GUARANTEED!
 CHRISTMAS WILL BE THRILLING!
@@ -531,14 +592,14 @@ MY MOUSTACHE IS CURLED.
 I'M MAKING MY ENTRANCE NOW
 WITH CURTAINS UNFURLED.
 LL SHOW THEM ALL
-I’M NO LITTLE WOMAN
+I'M NO LITTLE WOMAN
 IN A DRESS ALL BUTTONED
 AND PEARLED.
 I'M READY TO TAKE A BOW. 
 10 _ LITTLE WOMEN
 (MEG, BETH & AMY) (JO)
 WHEN BRAVE RODRIGO SCREAMS, I'VE TAKEN A SOLEMN VOW
-WHEN THE EVIL VILLAIN’S WITH ALL THAT I AM,
+WHEN THE EVIL VILLAIN'S WITH ALL THAT I AM,
 GLASSY EYEBALL GLEAMS! SOMEHOW:
 JO
 (triumphing)
@@ -554,26 +615,26 @@ CHRISTMAS
 ALL
 WILL EXCEED OUR FINEST DREAMS!
 JO
-Christopher Columbus, I’m bursting with energy! Someone give me a task to do!
+Christopher Columbus, I'm bursting with energy! Someone give me a task to do!
 BETH
 I want you - to bring father home.
 JO
 I shall write President Lincoln tonight! Another!
 MEG
-[ want you - to get Annie Moffat to invite me to her St. Valentine’s Day ball!
+[ want you - to get Annie Moffat to invite me to her St. Valentine's Day ball!
 JO
-I'll wring her bloody little neck if she doesn’t! Another!
+I'll wring her bloody little neck if she doesn't! Another!
 AMY
 [ want you - to get us a Christmas tree.
 JO
 Rodrigo will go chop one down immediately!
 AMY
 Where? 
-LITTLE WOMEN - 11 —-
+LITTLE WOMEN - 11 --
 JO
 There! Across the road!
 BETH
-But that’s on Mr. Laurence’s property.
+But that's on Mr. Laurence's property.
 AMY
 You'll go to prison for it!
 jo
@@ -581,63 +642,63 @@ jo
 Prison? What care I for prison?
 (The GIRLS rush to the window to watch her as the scene segues to THE MARCH
 PARLOR: #1)
-#3a—~— Transition To March Parlor
+#3a-~- Transition To March Parlor
 BETH
 Jo is an incredible human being.
 MEG
-Look, it’s Mr. Laurence. He’s standing there at the window glaring out.
+Look, it's Mr. Laurence. He's standing there at the window glaring out.
 . AMY
 He looks sinister.
 BETH
 I think he looks sad.
 AMY
-{ wouldn’t be sad living in such a house.
+{ wouldn't be sad living in such a house.
 BETH
 Has anyone ever been inside?
 AMY
 He'd never let any of us in.
 MEG
-They say he’s a very angry and bitter man. Jo’s going to get us all into deathly trouble.
+They say he's a very angry and bitter man. Jo's going to get us all into deathly trouble.
 AMY
 We'll be known as the family with the criminal sister.
-(MARMEE, the girls’ mother, enters. Her strength and spirit hold the family together)
+(MARMEE, the girls' mother, enters. Her strength and spirit hold the family together)
 MARMEE
 What criminal sister? 
-—~ 12 — LiTTLeE Women
+-~ 12 - LiTTLeE Women
 (BETH, MEG & AMY rush to her, helping her with her things)
 7 . BETH & MEG AMY
-Marmee! , Marmceeg, you’re home!
+Marmee! , Marmceeg, you're home!
 MARMEE
 (Seeing them all in parts of costumes)
-What’s happening here?
+What's happening here?
 MEG
-Jo’s written an Operatic Tragedy.
+Jo's written an Operatic Tragedy.
 AMY
-And she’s inviting all of Concord to come see us perform it.
+And she's inviting all of Concord to come see us perform it.
 BETH
-And I’m the mother in it.
+And I'm the mother in it.
 MEG
-And I die in it, but it’s a beautiful death.
+And I die in it, but it's a beautiful death.
 AMY
-And I play Clarissa, who’s very sweet.
+And I play Clarissa, who's very sweet.
 MARMEE
 It sounds wonderfull
 BETH
-Oh, Marmee, it’s Jo’s best.
+Oh, Marmee, it's Jo's best.
 AMY
 Tell us about your day.
 MARMEE
-Well - we knitted socks and blankets for the Soldier’s Aid Society. And a letter came from father.
+Well - we knitted socks and blankets for the Soldier's Aid Society. And a letter came from father.
 AMY
 (shouts)
 A letter from father!
 MEG
 Read it to us, Marmce!
 . MARMEE
-Where’s Jo? ,
+Where's Jo? ,
 BETH
-She’s outside. 
-LiTTLOC WOMEN -— 13 =
+She's outside. 
+LiTTLOC WOMEN -- 13 =
 AMY
 Read the letter, Marmee!
 MARMEE
@@ -660,11 +721,11 @@ JO
 (surprised)
 Marmee!
 MARMEE
-‘Where did you get that tree?
+'Where did you get that tree?
 JO
 I borrowed it from Mr. Laurence.
 MARMEE
-Jo! You didn’t -
+Jo! You didn't -
 JO
 (passionate)
 I took it for us, Marmee!
@@ -673,13 +734,13 @@ MARMEE
 You'll take it back immediately. 
 14 _ LITTLE WOMEN
 Jo
-Take it back? That's like bringing back a chicken after you’ vechopped off its head.
+Take it back? That's like bringing back a chicken after you' vechopped off its head.
 AMY
 Do let us keep it.
 MEG
-It’s Christmas, Marmee.
+It's Christmas, Marmee.
 MARMEE
-No. Destroying someone else’s property - ?
+No. Destroying someone else's property - ?
 BETH
 (coming right in)
 Well, we could give it to the Hummels. They have so little.
@@ -715,12 +776,12 @@ Weeks! And I hope such an incident never happens again. You've ruined my day!
 (HE goes. THEY all see LAURIE, a boy of 16, who has remained behind, reticent, but
 wanting to say something)
 LAURIE
-He loves his trees. I’m Theodore Laurence the Third. But everyone calls me Laurie.
+He loves his trees. I'm Theodore Laurence the Third. But everyone calls me Laurie.
 I've come to live here. In Concord. I play the piccolo. I can sleep standing up. And
 I won a medal at school for holding my breath nearly three minutes before passing
 out.
 (To Jo)
-I think that was terrifically daring of you chopping down Grandfather’s tree. Well,
+I think that was terrifically daring of you chopping down Grandfather's tree. Well,
 goodbye.
 (HE starts to leave)
 jo
@@ -729,9 +790,9 @@ Theodore Laurence the Third! Would you mind delivering this tree to the Hummels?
 MARMEE
 Jo! ,
 LAURIE
-I don’t mind at all.
+I don't mind at all.
 JO
-He doesn’t mind.
+He doesn't mind.
 LAURIE
 Just point me in the direction.
 JO
@@ -740,7 +801,7 @@ LAURIE
 (Taking up the tree)
 Merry Christmas!
 (HE goes.) 
-—-— 16 — LITTLE WOMEN
+--- 16 - LITTLE WOMEN
 AMY
 Merry Christmas!
 [7 MARMEE
@@ -749,32 +810,32 @@ JO
 [just want us all to have a wonderful Christmas.
 MEG
 (to Jo with urgency)
-A letter’s come from father.
+A letter's come from father.
 JO
 (explodes with excitement)
 Christopher Columbus!
 BETH
 Do read the letter, Marmee.
-#3b — Letter Underscore
+#3b - Letter Underscore
 MARMEE
 (The GIRLS quickly gather around her)
 “My dear wife: The war goes on and on. The end seems nowhere in sight. The days
-are difficult and long. But I am well.’
+are difficult and long. But I am well.'
 AMY
-He’s well.
+He's well.
 MARMEE
-Still it’s very lonely away from my dear ones. Especially lonely as Christmas is
-approaching. Each night in my tent, I think of my precious girls.’
+Still it's very lonely away from my dear ones. Especially lonely as Christmas is
+approaching. Each night in my tent, I think of my precious girls.'
 AMY
 He thinks of us.
 MARMEE
-‘Give them all my love. And give them a sweet kiss. Tell them to be good girls.
-Faithful and hard working. And to conquer that which is disagreeable in them -’
+'Give them all my love. And give them a sweet kiss. Tell them to be good girls.
+Faithful and hard working. And to conquer that which is disagreeable in them -'
 (SHE sneaks a look at Jo)
-“- so that when I return, I'll be fonder and prouder than ever of my little women.’
+“- so that when I return, I'll be fonder and prouder than ever of my little women.'
 (SHE looks at her girls, who suddenly look sad. SHE gets up)
 . Why are we looking so glum? Do we have an Operatic Tragedy to perform or not? 
-LITTLE WOMEN — 71 “MI
+LITTLE WOMEN - 71 “MI
 |
 JO
 (her spirits reviving)
@@ -789,36 +850,36 @@ Do, Marmee.
 JO
 I'll write something thrilling for you, with passion and daringMARMEE
 Yes! Yes, | will. We'll make this the best Christmas ever! We March women are
-invincible. Come, let’s get to work.
-‘(The GIRLS begin to disperse, reciting their lines) Lo
-#4 —Here Alone
+invincible. Come, let's get to work.
+'(The GIRLS begin to disperse, reciting their lines) Lo
+#4 -Here Alone
 AMY
 I'll get my paints -
 BETH
-I’ll look for a costume for Marmee!
+I'll look for a costume for Marmee!
 MEG
 I'll design the handbill.
 JO,
 (to Marmee on her way out)
-I still don’t know why we couldn’t have kept the tree.
+I still don't know why we couldn't have kept the tree.
 MARMEE
-“My dear husband,’
+“My dear husband,'
 (SHE stops. SHE crumples the paper)
 WRITE A LETTER, BE INVENTIVE.
 TELL YOU EVERYTHING IS FINE.
 BE ATTENTIVE TO THE DISTANCE.
 SEND MY LOVE WITH EVERY LINE.
 = EVERY WORD SHOULD BRING YOU CLOSER 
-- 18 — LITTLE WOMEN
+- 18 - LITTLE WOMEN
 (MARMEE)
 AND CARESS YOU WITH ITS TONE.
 NOTHING SHOULD REMIND YOU
 THAT 1 AM HERE ALONE.
-I CAN’T TELL YOU WHAT I’M FEELING.
-I CAN’T TALK ABOUT THE WAR.
+I CAN'T TELL YOU WHAT I'M FEELING.
+I CAN'T TALK ABOUT THE WAR.
 HOW THE PEALING OF THE CHURCH BELLS
 BRINGS THE BATTLE TO OUR DOOR.
-I DON’T KNOW WHICH PART IS HARDER,
+I DON'T KNOW WHICH PART IS HARDER,
 WHAT I KNOW OR WHAT'S UNKNOWN,
 OR RAISING LITTLE WOMEN
 WHEN I AM HERE ALONE.
@@ -838,9 +899,9 @@ I WISH THAT YOU WERE WITH ME,
 WISH THAT I COULD BRING YOU HOME.
 THE NIGHT SEEMS SO MUCH LONGER
 NOW THAT 1 AM HERE ALONE.
-#4a—Transition To Aunt March
+#4a-Transition To Aunt March
 SCENE 2
-(AUNT MARCH’S STATELY HOUSE. January 1864. AUNT MARCH ts a formidable,
+(AUNT MARCH'S STATELY HOUSE. January 1864. AUNT MARCH ts a formidable,
 over-bearing matron, a lioness with a deep, throaty voice, sitting in her great chair, SHE
 bellows)
 cw AUNT MARCH
@@ -854,14 +915,14 @@ Do you know the hour?
 JO
 Almost ten, I believe.
 AUNT MARCH
-Your workday begins with me at nine! You’ve missed reading to me. And still
-haven’t repaired the latch on the cellar door -
+Your workday begins with me at nine! You've missed reading to me. And still
+haven't repaired the latch on the cellar door -
 JO
 I got delayed finding you this beautiful flower.
 AUNT MARCH
 Don't trifle with me, Josephine. You were dawdling.
 JO
-I wasn’t dawdling. I was writing a story. |
+I wasn't dawdling. I was writing a story. |
 AUNT MARCH
 You are what happens to a girl when she has no father.
 JO
@@ -869,24 +930,24 @@ I have a father.
 AUNT MARCH
 (pointed)
 Never here when you need him. And now my nephew has the audacity to be an
-army chaplain when he can’t even support his own family!
+army chaplain when he can't even support his own family!
 (coming right in, strong)
 Josephine, listen to me: You are on the verge of womanhood!
 JO
 Christopher Columbus!
 AUNT MARCH
 And just look at you! You go about writing senseless stories, constantly trying to
-save the world - and you can’t save yourself!
+save the world - and you can't save yourself!
 JO
-1 don’t need saving.
+1 don't need saving.
 AUNT MARCH
 There are many pitfalls a girl can fall into, and Josephine - 
-—- 20 — Litr.c Women
+-- 20 - Litr.c Women
 (AUNT MARCH)
 (With deliberate emphasis, digging into hier)
 - you are heading towards all of them!
 (With a great burst of enthusiasm)
-I want to see you shine. Even if you’re not rich - you can at least marry well.
+I want to see you shine. Even if you're not rich - you can at least marry well.
 JO
 "ll never marry.
 AUNT MARCH
@@ -896,9 +957,9 @@ I'm not all girls.
 AUNT MARCH
 With a good marriage, you can have power. You can take your place in society.
 JO
-I don’t give two figs about society!
+I don't give two figs about society!
 AUNT MARCH
-Then there is no point in our having this conversation. It’s clear to me I could never
+Then there is no point in our having this conversation. It's clear to me I could never
 take you to Europe.
 JO
 (taken aback)
@@ -906,13 +967,13 @@ Take me to Europe?
 AUNT MARCH
 It was an idle thought of mine.
 JO
-Do you know how important it is for a writer to travel? It’s been my dream, Aunt
+Do you know how important it is for a writer to travel? It's been my dream, Aunt
 March.
 AUNT MARCH
 (coming in strong)
-We earn our dreams in this world. It’s foolish of me to think you could ever change
+We earn our dreams in this world. It's foolish of me to think you could ever change
 your ways.
-#5—Could You
+#5-Could You
 JO
 I could try! 
 LITTLE WOMEN 21
@@ -924,7 +985,7 @@ THOUGH YOUR TONGUE MAY SPLIT IN TWO.
 IF YOU WANT TO LIVE YOUR DREAMS,
 THESE ARE THINGS YOU HAVE TO DO.
 HOW COULD YOU CHANGE?
-YOU CAN’T! NOT YOU.
+YOU CAN'T! NOT YOU.
 Jo
 I could change if I wanted to.
 AUNT MARCH
@@ -950,7 +1011,7 @@ LEARN THE ART OF SMILING.
 JO
 THAT COULD BE HARD.
 AUNT MARCH
-IT ISN’T VERY HARD
+IT ISN'T VERY HARD
 FOR SOMEONE FULL OF DREAMS LIKE YOU. 
 22 LITTLE WOMEN
 (AUNT MARCH)
@@ -959,9 +1020,9 @@ NOTHING YOU CAN'T DO.
 JO
 SO, IF | CHANGE WE'LL GO TO PARIS?
 AUNT MARCH
-CHANGE COMPLETELY OR DON’T WASTE MY TIME.
+CHANGE COMPLETELY OR DON'T WASTE MY TIME.
 JO
-IF | CHANGE WE’LL STOP IN ANTWERP?
+IF | CHANGE WE'LL STOP IN ANTWERP?
 AUNT MARCH
 GRACIOUS LIVING WILL MAKE YOU SUBLIME.
 JO
@@ -997,7 +1058,7 @@ YES, ISURELY THINK I COULD!
 AUNT MARCH
 IF YOU COULD THAT WOULD BE GOOD.
 Jo
-THERE’S NOTHING THAT I WOULDN'T SUFFER TO SEE THE WORLD!
+THERE'S NOTHING THAT I WOULDN'T SUFFER TO SEE THE WORLD!
 I CAN DO IT IF f TRY.
 I CAN DO IT BY SHEER WILL.
 AUNT MARCH
@@ -1011,11 +1072,11 @@ CHANGE HOW YOU WALK
 AND HOW YOU TALK.
 CHANGE HOW YOU THINK AND HOW YOU ARE.
 Jo
-V’LL HOLD MY BREATH
+V'LL HOLD MY BREATH
 AND HOLD MY TONGUE.
 DO WHAT IT TAKES
 TO TRAVEL FAR!
-. AUNT MARCH _— Jo
+. AUNT MARCH _- Jo
 COULD YOU?
 AH-AH-AH-AH!
 COULD YOU?
@@ -1024,15 +1085,15 @@ COULD YOU?
 AH-AH-AH-AH-AH!
 Jo
 YES, | COULD! 
-—- 24 — LITTLE WOMEN
+-- 24 - LITTLE WOMEN
 AUNT MARCH
 GOOD!
-#5a—Could You — Playoff/Transition
+#5a-Could You - Playoff/Transition
 SCENE 3
 (THE MARCH PARLOR: #2. February 14, 1864)
 MARMEE
 (SHE calls up the stairs)
-Girls! It’s getting quite late!
+Girls! It's getting quite late!
 BETH
 (Coming down the stairs)
 Wait till you see them, Marmee.
@@ -1044,35 +1105,35 @@ MARMEE
 Meg?
 (MEG rushes down the stairs in a beautiful gown wi th bare shoulders. SHE stops)
 MEG
-I can’t go!
+I can't go!
 BETH
 Meg, why not?
 MEG
 Look at me! Every girl in Concord my age has been to a ball. And this is the very
-first time I’ve even worn a dress like this. Anything like this.
+first time I've even worn a dress like this. Anything like this.
 MARMEE
-[ wore that very same dress to my first ball. And it didn’t look half so good on me.
-Margaret March, you've been dreaming about Annie Moffat’s St. Valentine’s Day
-Ball for months. You can’t walk away from it now.
+[ wore that very same dress to my first ball. And it didn't look half so good on me.
+Margaret March, you've been dreaming about Annie Moffat's St. Valentine's Day
+Ball for months. You can't walk away from it now.
 JO
 (SHE enters, uncertain of her look)
 I'm not built for gowns.
-LitrtTt.c WOMEN ~ 25 —
+LitrtTt.c WOMEN ~ 25 -
 MARMEE
 You look very alluring.
 JO
-| think the word is alarming, Marmee. Meg’‘s the beauty. Look at her. She'll be the
+| think the word is alarming, Marmee. Meg''s the beauty. Look at her. She'll be the
 most sought after girl at the ball.
 BETH
-She doesn’t want to go.
+She doesn't want to go.
 jo
 Meg?
 MEG
 What will I do when someone asks me to dance?
 MARMEE
 Just smile and say -
-#6 —Delighted
-l’D BE DELIGHTED.
+#6 -Delighted
+l'D BE DELIGHTED.
 MEG
 DELIGHTED?
 MARMEE
@@ -1084,9 +1145,9 @@ MARMEE
 DELIGHTED.
 NOW LET HIM TAKE COMMAND.
 MEG
-I’M HARDLY DELIGHTED.
+I'M HARDLY DELIGHTED.
 MARMEE
-YOU’RE DANCING LIKE A CANDLE!
+YOU'RE DANCING LIKE A CANDLE!
 MEG
 NO | CANNOT DANCE TONIGHT!
 Jo
@@ -1112,7 +1173,7 @@ PEOPLE EVERYWHERE.
 MARMEE & BETH ©
 ELEGANCE TO SPARE.
 MEG
-HOW CAN | BE SURE THEY’LL LIKE ME WHEN I’M THERE?
+HOW CAN | BE SURE THEY'LL LIKE ME WHEN I'M THERE?
 MARMEE, BETH & JO
 I CAN SEE YOU DANCING ALL NIGHT.
 (Dance Break)
@@ -1124,7 +1185,7 @@ DELIGHTED!
 SO GLAD WE WERE INVITED!
 ALL
 COMPLETELY DELIGHTED! 
-LITTLE WOMEN — 27 —
+LITTLE WOMEN - 27 -
 Jo
 WHO PAID THE COACHMAN?
 MEG
@@ -1150,16 +1211,16 @@ DELIGHTED!
 (The singing stops with the appearance of AMY at the top of the stairs dressed for the
 ball in a gown much too big for her)
 AMY
-I’m ready! °
+I'm ready! °
 MARMEE
 Amy, what are you doing?
 AMY
-I’m going to the ball.
+I'm going to the ball.
 JO MARMEE
 You're what? Amy, no -
 AMY
 | found this old dress and it almost fits. 
-28 — LITTLE WOMEN
+28 - LITTLE WOMEN
 JO
 It was mine.
 AMY
@@ -1171,22 +1232,22 @@ I can go in your place.
 MARMEE JO
 Amy! ; In my place?
 AMY
-You don’t care about good society and I do.
+You don't care about good society and I do.
 JO
-I don’t care about snobs. People who think they’re better than you just because they
+I don't care about snobs. People who think they're better than you just because they
 have grander houses -
 AMY
 Well, they do have grander houses.
 MARMEE
-That’s enough, Amy!
+That's enough, Amy!
 AMY.
 But I want elegance and fine things, Marmee!
 JO
-And I want passion! I want to be noticed because I’m unique. Not because of some
+And I want passion! I want to be noticed because I'm unique. Not because of some
 silly sash.
 AMY
-Sashes aren't silly. Aunt March says the right accessories could be the key to a girl’s
-success. Besides, I’d never go to a ball with scorch marks on the back of my dress.
+Sashes aren't silly. Aunt March says the right accessories could be the key to a girl's
+success. Besides, I'd never go to a ball with scorch marks on the back of my dress.
 JO
 What?
 AMY
@@ -1200,18 +1261,18 @@ Jo hates balls. She should stay in her musty old attic and write her dreadful li
 MEG
 Amy!
 JO
-My stories aren’t dreadful!
+My stories aren't dreadful!
 AMY
 Nobody reads them and nobody likes them!
 MARMEE
-(Fixing Jo’s patcli)
+(Fixing Jo's patcli)
 Girls!
 Jo
-Well, I like them! I’m sending this one off to a very prominent New York publisher
+Well, I like them! I'm sending this one off to a very prominent New York publisher
 AMY
 And he'll hate it!
 'MARMEE
-Enough, Amy! There, Jo, it’s barely noticeable.
+Enough, Amy! There, Jo, it's barely noticeable.
 MEG
 We've got to go.
 yo
@@ -1230,14 +1291,14 @@ Girls, have a wonderful evening.
 Amy, think about what you said. And when Jo comes home, you can apologize.
 Now come girls, get ready for bed. oa
 (SHE and BETH go, leaving AMY alone. MARMEE calls front off-stage) “ 
-—- 30 — LITTLE WOMEN
+-- 30 - LITTLE WOMEN
 (MARMEE)
 Amy!
 AMY
 _Coming!
-#7— Delighted Reprise
-(SHE picks up Jo’s portfolio and tosses the pages into the fire. SHE dances as scene
-segues to A GLORIOUS ATRIUM in Annie Moffat’s House. JO rushes in, pulling
+#7- Delighted Reprise
+(SHE picks up Jo's portfolio and tosses the pages into the fire. SHE dances as scene
+segues to A GLORIOUS ATRIUM in Annie Moffat's House. JO rushes in, pulling
 MEG behind her) . .
 To include a.chorus of 12 - 24 dancers, introduce pairs of dancers at the scene change,
 just before JO and MEG enter. Chorus enters dancing to the transitional music
@@ -1250,25 +1311,25 @@ It was an accident!
 MEG
 Jo-! : 6
 I swear, Meg. Mrs. Parrot kept moving in on me - like a mountain lion. She had this
-gigantic ear trumpet. And she kept shouting at me, ‘What's that you say, my dear?’
+gigantic ear trumpet. And she kept shouting at me, 'What's that you say, my dear?'
 MEG
-She’s deaf.
+She's deaf.
 JO
 She got so close I ended up spilling the entire glass of punch on her.
 MEG
 Oh, Jo.
 (SHE laughs at the ridiculousness of tt)
 jo
-And then Annie Moffat said to me, ‘Can I be of help, Sally?’ Sally? Who is Sally?
+And then Annie Moffat said to me, 'Can I be of help, Sally?' Sally? Who is Sally?
 MEG
-I think it’s her dog. 
+I think it's her dog. 
 LiIttL ce Women a 31
 JO
 I ought to box her ears.
 (SHE starts back)
 MEG
 (stopping her)
-Jo- don’t! We'll take a few minutes - then we'll go back in as if nothing had
+Jo- don't! We'll take a few minutes - then we'll go back in as if nothing had
 happened. Our heads held high.
 JO
 (quickly recovering)
@@ -1276,7 +1337,7 @@ Yes. You're right. For a young lady who is soon to go abroad and do amazing thin
 shall return poised and elegant, brimming with confidence. I shall sit grandly ~
 (SHE sits. Quickly jumps up as SHE has sat on someone)
 Christopher Columbus!
-(It 1s LAURIE, Mr. Laurence’s grandson)
+(It 1s LAURIE, Mr. Laurence's grandson)
 LAURIE
 Excuse me!
 JO
@@ -1290,12 +1351,12 @@ LAURIE
 I passed out. Too much dancing, I guess.
 JO
 Too much punch, I'd say.
-A MAN’S VOICE
+A MAN'S VOICE
 (calls)
 Laurie! Laurie!
-; (MR. JOHN BROOKE, Laurie’s tutor, rushes in. HE is in his late 20s, good looking,
+; (MR. JOHN BROOKE, Laurie's tutor, rushes in. HE is in his late 20s, good looking,
 with strong features)
-Laurie? Where have you been?- I’ve been looking everywhere for you. 
+Laurie? Where have you been?- I've been looking everywhere for you. 
 - LITTLE WOMEN
 LAURIE
 Mr. Brooke, I want you -
@@ -1303,41 +1364,41 @@ MR. BROOKE
 Your grandfather will be furious. He wants you to meet some important people -
 (HE starts to pull Laurie away):
 LAURIE
-Ihave. These are the March girls I’ve been telling you about, the ones from across
+Ihave. These are the March girls I've been telling you about, the ones from across
 the way.
 (HE pulls apart from Mr. Brooke)
 This is Meg - right?
 MEG
 Yes.
 LAURIE
-And that’s Jo. She cuts our firewood on occasion. This is Mr. John Brooke. He’s a
+And that's Jo. She cuts our firewood on occasion. This is Mr. John Brooke. He's a
 scholar from Boston.
 MR. BROOKE
-I’m Laurie’s tutor. Come, Laurie.
-(HE quickly picks up Laurie's things, including, accidentally, Meg’s dance card and
+I'm Laurie's tutor. Come, Laurie.
+(HE quickly picks up Laurie's things, including, accidentally, Meg's dance card and
 starts away)
 MEG
 (calls)
-Sir! You’ve taken my dance card!
+Sir! You've taken my dance card!
 MR. BROOKE
 Your dance card?
 (HE looks at what he is holding)
 Oh? Is this yours? Sorry.
 (HE returns the card. Suddenly notices how striking looking Meg is)
-So - you’re Margaret March?
+So - you're Margaret March?
 MEG
 Yes, fam.
 MR. BROOKE
-It’s - a splendid party, isn’t it?
+It's - a splendid party, isn't it?
 MEG
-Yes, it is. Quite - ‘lovely.’ So you’re from Boston? 
-LITTLE WOMEN —- 33 —-
+Yes, it is. Quite - 'lovely.' So you're from Boston? 
+LITTLE WOMEN -- 33 --
 MR. BROOKE
 Actually Maine.
 MEG
 I've never been to Maine.
 MR. BROOKE
-You should go. It’s beautiful country. Very primitive.
+You should go. It's beautiful country. Very primitive.
 MEG
 I like primitive.
 MR. BROOKE
@@ -1350,7 +1411,7 @@ MR. BROOKE
 Well, no, no. I read Sheats and Kelley. I mean - Keats and Shelley.
 MEG
 So do I.
-#7a— Moffat Underscore
+#7a- Moffat Underscore
 If using a chorus, when the MUSIC resumes (SCORE #7a, measure 1) the pairs of
 dancers begin to exit, and all are off stage by measure 18.
 MR. BROOKE
@@ -1363,7 +1424,7 @@ Christopher Columbus!
 MR. BROOKE >
 (suddenly inspired)
 Would you like to dance, Miss March? 
-—~ 34 — LitTTLe WOMEN
+-~ 34 - LitTTLe WOMEN
 jo
 Meg, we were about to join the ladies in the salon -
 MEG
@@ -1378,28 +1439,28 @@ LAURIE
 jo
 Well, you look ridiculous.
 LAURIE
-You’re looking very fetching tonight.
+You're looking very fetching tonight.
 JO
 (Mocking with her fan, as a belle)
 Fetching, really!
 LAURIE
-So tell me, when you’re not attending balls, what do you do?
+So tell me, when you're not attending balls, what do you do?
 joo
-I write blood and guts stories. I make extraordinary plans. I’m going to Europe.
+I write blood and guts stories. I make extraordinary plans. I'm going to Europe.
 I'm going to meet famous writers and revolutionaries. So what about you? What do
-you do? Marmee said you’re all alone in the world. No mother or father. That must
+you do? Marmee said you're all alone in the world. No mother or father. That must
 be awful for you.
 LAURIE
-It’s not awful. I’ve got a cranky old grandfather. And I’ve gota cat. And I’ve got -
+It's not awful. I've got a cranky old grandfather. And I've gota cat. And I've got -
 Jo
 What?
 LAURIE
 Well, | was hoping to say you.
-#8—~ Take A Chance On Me 
-LiTTLeE Women - 35 —
+#8-~ Take A Chance On Me 
+LiTTLeE Women - 35 -
 jo
 (laughs)
-Me? You don’t have me.
+Me? You don't have me.
 LAURIE
 | KNOW I HAVE NO RIGHT
 BUT SOMETIMES LATE AT NIGHT
@@ -1412,9 +1473,9 @@ THIS IS VERY NICE.
 SUCH A LOVELY PARTY.
 THE MUSIC SOUNDS SO THRILLING
 IT MAKES A PERSON FEEL LIKE DANCING.
-I’m very good. I won a medal for dancing at school.
+I'm very good. I won a medal for dancing at school.
 JO
-T don’t dance. Besides I’ve got a patch on the back of my dress.
+T don't dance. Besides I've got a patch on the back of my dress.
 LAURIE
 A patch? Let me see.
 JO
@@ -1429,7 +1490,7 @@ DO ANYTHING YOU PLEASE.
 WE COULD FLY ON GOLDEN WINGS
 ACROSS THE SEVEN SEAS.
 "LL BET WE COULD GET A CAMEL THROUGH A NEEDLE
-TF YOU’LL TAKE A CHANCE ON ME.
+TF YOU'LL TAKE A CHANCE ON ME.
 Jo
 You are a lunatic! 
 36 _ LITTLE WOMEN
@@ -1438,7 +1499,7 @@ WE COULD CATCH A THOUSAND STARS
 AND STAND THEM ON A PIN,
 WE COULD LEAP FROM HERE TO MARS
 AND MAKE THE.PLANETS SPIN.
-IF YOU WANT TO DO ALL THE THINGS YOU’VE EVER DREAMED OF:
+IF YOU WANT TO DO ALL THE THINGS YOU'VE EVER DREAMED OF:
 COME ON, TAKE A CHANCE ON ME. .
 WE COULD BE SUCH FRIENDS.
 FRIENDS ARE NEVER LONELY.
@@ -1462,7 +1523,7 @@ when HE moves to her, SHE quickly pommels him with a punch to the solar plexus
 and a chop on the back. HE falls)
 JO
 (celebrating)
-So that’s how you win medals?
+So that's how you win medals?
 LAURIE
 You cheat!
 (SHE begins to chase him)
@@ -1472,32 +1533,32 @@ You win!
 WE COULD GO TO SUCH EXTREMES. 
 LitTTLe WOMEN - 37 -
 (LAURIE)
-THERE’S SO MUCH WE COULD SHARE.
+THERE'S SO MUCH WE COULD SHARE.
 WE'LL CIRCLE THE WORLD
-DOING ALL WE'VE EVER DREAMED OF —
+DOING ALL WE'VE EVER DREAMED OF -
 AND WE'LL LIVE INOQUR OWN WAY
-AND I’/LL SEE YOU EVERY DAY.
+AND I'/LL SEE YOU EVERY DAY.
 WE'LL BE THE BEST OF FRIENDS
 WHEN YOU TAKE A CHANCE ON ME!
-So what d’you say? Try me.
+So what d'you say? Try me.
 | JO
 [ challenge you to a skating race tomorrow at the pond! Come on!
 (SHE rushes off)
-#9~—Take A Chance Transition
+#9~-Take A Chance Transition
 LAURIE
-WE’LL CIRCLE THE WORLD DOING ALL WE'VE EVER DREAMED OF -
+WE'LL CIRCLE THE WORLD DOING ALL WE'VE EVER DREAMED OF -
 CAUSE YOU'LL TAKE A CHANCE,
-YES, YOU’LL TAKE A CHANCE,
+YES, YOU'LL TAKE A CHANCE,
 FINALLY TAKE A CHANCE ON ME!
 (The scene segues back to THE MARCH PARLOR: #3, where MR. BROOKE ts
 assisting MEG onto the sofa)
 BETH
-Marmee! They’re home!
+Marmee! They're home!
 MARMEE
 (Rushing in)
 Meg!
 MR. BROOKE
-Excuse me - Mrs. March. John Brooke, Laurie’s tutor. We were dancing and - The
+Excuse me - Mrs. March. John Brooke, Laurie's tutor. We were dancing and - The
 ankle may be sprained.
 (HE quickly looks at Meg - smiles)
 Thank you.
@@ -1515,12 +1576,12 @@ Goodnight.
 (SHE turns to Meg)
 Can you walk on it?
 MEG
-It’s nothing, Marmee.
+It's nothing, Marmee.
 BETH
 Tell us about the ball?
 Jo
 I tried to do all these ladylike things, Marmee, that went unnoticed, except by Mr.
-Laurence’s grandson. And poor Meg, no one even asked her to dance but that
+Laurence's grandson. And poor Meg, no one even asked her to dance but that
 pompous Mr. Brooke -
 MEG
 (coming in, transfixed)
@@ -1530,9 +1591,9 @@ I may have left here a girl - but I came home: a woman.
 MARMEE
 A woman? What's she talking about? Meg!
 JO
-It’s just Meg being silly, Marmee.
+It's just Meg being silly, Marmee.
 ' MARMEE
-Girls, off to bed now. It’s been a long day, for all of us.
+Girls, off to bed now. It's been a long day, for all of us.
 Jo
 Beth darling, look what I brought for you: A truffle.
 (SHE gives Beth a neatly wrapped truffle)
@@ -1545,7 +1606,7 @@ Goodnight, Marmee.
 (SHE goes)
 LitTTLE WOMEN 9
 AMY
-I’m sorry for the things I said, Jo.
+I'm sorry for the things I said, Jo.
 fe)
 And for you, Miss March - a petit fours. A little squashed, but still edible.
 AMY
@@ -1556,7 +1617,7 @@ Coming, Jo?
 JO
 I just want to put the finishing touches to my story, Marmee.
 MARMEE
-Don’t be too long. And see that the fire is out.
+Don't be too long. And see that the fire is out.
 (SHE goes. JO goes to the fireplace. SHE pulls out charred pieces of paper. SHE
 begins to get frantic. SHE rushes about. SHE finds her portfolio. It is empty. SHE
 rushes up the stairs)
@@ -1596,7 +1657,7 @@ Jo
 (SHE stops, appalled)
 You what?
 AMY
-And I’m glad I did!
+And I'm glad I did!
 MARMEE
 (Rushing in, followed by Beth and Meg)
 Amy!
@@ -1638,69 +1699,69 @@ MARMEE
 Your time will come, Amy.
 AMY
 (intpassioned)
-No, my time will-never come! I’m always forgotten! I’m always last! I’m never
+No, my time will-never come! I'm always forgotten! I'm always last! I'm never
 invited anywhere! I have nothing special -
 MARMEE
-That's enough, Amy! Both of you look at me! I can’t demand you two love one
+That's enough, Amy! Both of you look at me! I can't demand you two love one
 another - but I do demand you live together with respect.
 AMY
 (continues tmpassioned)
 T hate the way T look! [hate this nightgown!
 Jo
 [t was mine. 
-—- 42 —- LITTLE WOMEN
+-- 42 -- LITTLE WOMEN
 AMY
 (peaks)
-I want something that’s mine!
+I want something that's mine!
 (SHE rushes off - comes back again more controlled)
 And I'll take back that fan.
 (SHE takes the fan and rushes off)
 MARMEE
 I'm so sorry.
 jo
-It’s not your fault. Though you did give birth to her.
+It's not your fault. Though you did give birth to her.
 MARMEE
-Can’t you see, shé wants to be like you? She wants to have what you have. She’s
+Can't you see, shé wants to be like you? She wants to have what you have. She's
 just a child, Jo.
 Jo
-She’s not just a child. She’s a demon in a child’s body.
+She's not just a child. She's a demon in a child's body.
 ' MARMEE
 Jo, if [could bring your story back, I would.
 JO
-My writing is everything to me, Marmee. It’s who I am. It’s my future. It’s my
+My writing is everything to me, Marmee. It's who I am. It's my future. It's my
 passion.
 MARMEE.
-That passion is still in you. Believe me, Jo ~ it’s still there.
+That passion is still in you. Believe me, Jo ~ it's still there.
 JO
 I'll never forgive her.
 MARMEE
 You're not wrong, Jo, to feel anger. But if you build a wall between you and Amy,
-the one person you may end up hurting is yourself. And I couldn’t bear that... Try
+the one person you may end up hurting is yourself. And I couldn't bear that... Try
 and get some sleep.
 (SHE goes.)
-#10-— Better Reprise
+#10-- Better Reprise
 JO
-T can’t sleep!
+T can't sleep!
 (SHE vets up-wends her way up to THE ATTIC: #2 - taking off her skirt and hoop as
 SHE goes up the stairs - talking to herself)
 I won't!
-LITTLE WOMEN —~ 43 -—
+LITTLE WOMEN -~ 43 --
 (JO)
 I WILL NEVER FALL ASLEEP AGAIN.
 NOT FOR DECADES - NO, NOT EVEN THEN!
 MY LIFE WAS IN THIS STORY.
 HOW COULD SHE BE SO CRUEL?
 HOW CAN SO MUCH BE LOST SO EASILY?
-| WROTE MY HEART OUT —- IT DOES NOT SEEM FAIR.
-I'LL RAGE UNTIL I’M WITHERED.
+| WROTE MY HEART OUT -- IT DOES NOT SEEM FAIR.
+I'LL RAGE UNTIL I'M WITHERED.
 "LL GROW COLD AND BITTER...
 (SHE stops, gets a sudden idea)
-‘ ‘Carlotta ...
+' 'Carlotta ...
 (SHE stops, muses)
-‘Carlotta the madwoman in the attic, a creature of gall -’ I like this. ‘A spinster - rejected by the world - changed her appearance.’ Yes! ‘She attached golden braids
-to her hair - ’
+'Carlotta the madwoman in the attic, a creature of gall -' I like this. 'A spinster - rejected by the world - changed her appearance.' Yes! 'She attached golden braids
+to her hair - '
 (The scene segues back to Concord, THE ATTIC: #3.)
-#10a— Concord Transition
+#10a- Concord Transition
 If using a chorus, introduce a chorus of 12 - 24 dancers as ice skaters at measure 1 of SCORE #10A. As Laurie enters and the scene continues, the skater/dancer chorus can be seen traversing the stage, individually or in groups of twos and threes and fours; some skating, some preparing to skate, some crossing the stage to head home. While some members of this chorus may exit sooner, by measure 15 of Score #10A all
 remaining skater/dancer chorus members exit with Laurie
 How long has it been snowing?
@@ -1710,9 +1771,9 @@ LAURIE
 Jo! Jo, come skating with me! The pond is still frozen enough! The ice is magnificent today. Jo, come!
 JO
 (calls back)
-Laurie. I’m finishing a story.
+Laurie. I'm finishing a story.
 LAURIE
-Finish it later. Come race me. I want to win one race before the winter’s over.
+Finish it later. Come race me. I want to win one race before the winter's over.
 _ LITTLE WOMEN
 JO
 I'll give you a two minute head start -
@@ -1726,12 +1787,12 @@ BETH ts at the piano. AMY moves about the room looking forlorn)
 BETH
 Go with them.
 AMY
-Jo doesn’t want me.
+Jo doesn't want me.
 BETH
 Go anyway.
 AMY
-She hasn’t talked to me in three weeks. I drew a picture of her with her beautiful
-hair and she just ignored it. Besides my ice skates don’t fit me anymore.
+She hasn't talked to me in three weeks. I drew a picture of her with her beautiful
+hair and she just ignored it. Besides my ice skates don't fit me anymore.
 BETH
 Take mine.
 AMY
@@ -1739,8 +1800,8 @@ AMY
 Can I really? Thank you, Beth. I hope one day I can be sweet like you.
 BETH
 You are sweet.
-(AMY takes down the skates and rushes out — crashing into MR. LAURENCE
-Laurie’s caustic grandfather)
+(AMY takes down the skates and rushes out - crashing into MR. LAURENCE
+Laurie's caustic grandfather)
 a
 MR. LAURENCE
 (bites out)
@@ -1761,34 +1822,34 @@ MR. LAURENCE
 (Entering)
 Where is my grandson, Laurie?
 BETH
-I’m sure he’ll be home soon.
+I'm sure he'll be home soon.
 MR. LAURENCE
-The boy’s missed six lessons - fallen behind in all his work. I have strictly forbidden him to associate with this family. ,
+The boy's missed six lessons - fallen behind in all his work. I have strictly forbidden him to associate with this family. ,
 BETH
 Why, sir?
 MR. LAURENCE
-Because a man needs an iron will if he’s to succeed in this world. And this family will only soften him... Which one of the dreadful little March girls are you?
+Because a man needs an iron will if he's to succeed in this world. And this family will only soften him... Which one of the dreadful little March girls are you?
 BETH
-‘I'm dreadful Beth.
+'I'm dreadful Beth.
 MR. LAURENCE
-Oh, yes, Laurie said you're the one who wants to play my priceless piano. It’s out of the question. The piano belonged to my daughter, Lauric’s mother. It’s been locked since she passed away, and that’s how it shall stay...
+Oh, yes, Laurie said you're the one who wants to play my priceless piano. It's out of the question. The piano belonged to my daughter, Lauric's mother. It's been locked since she passed away, and that's how it shall stay...
 Are you afraid of me?
 BETH
 A little.
 MR. LAURENCE
 Why?
 BETH
-{t might have something to do with your face, sir. It’s very hard.
-—- 46 —- LITTLE WOMEN
+{t might have something to do with your face, sir. It's very hard.
+-- 46 -- LITTLE WOMEN
 MR. LAURENCE
 I cannot help my hard face. Continue what you were playing.... Come now, I
 haven't all day... Are you going to play or not?
-#11-—Off To Massachusetts
+#11--Off To Massachusetts
 BETH
 (playing)
 IF YOU SAY,
-‘COME WITH ME,
-OFF TO MASSACHUSETTS,’
+'COME WITH ME,
+OFF TO MASSACHUSETTS,'
 THEN TO MASSACHUSETTS
 WE WILL GO.
 WE WILL BUY DISHES THERE,
@@ -1811,7 +1872,7 @@ AND WAIT UNTIL THE GLUE SETS.
 MR. LAURENCE
 What's the matter now?
 BETH
-I don’t remember the rest, sir.
+I don't remember the rest, sir.
 MR. LAURENCE
 While we wait we'll polka for the folk along the parapets!
 LiTTLe WOMEN _-
@@ -1820,7 +1881,7 @@ OFF
 MR. LAURENCE
 TO MASSACHUSETTS.
 BETH
-YES, WE’RE OFF
+YES, WE'RE OFF
 MR. LAURENCE
 TO WHERE THE SHOPS ARE SWEET!
 BETH & MR. LAURENCE
@@ -1829,19 +1890,19 @@ OFF IN MASSACHUSETTS,
 BOSTON, MASSACHUSETTS,
 BEACON STREET!
 BETH MR. LAURENCE
-IF YOU SAY IF YOU SAY, ‘COME WITH ME,
-‘COME WITH ME, OFF TO MASSACHUSETTS,’
+IF YOU SAY IF YOU SAY, 'COME WITH ME,
+'COME WITH ME, OFF TO MASSACHUSETTS,'
 THEN TO MASSACHUSETTS THEN TO MASSACHUSETTS
 aaa WILL GO. WE WILL GO.
 WE WILL BUY WE WILL BUY DISHES THERE
 DISHES THERE. MAYBE EVEN TWO SETS.
 BUY THE FINEST CHINA BUY THE FINEST CHINA
-THEN WE'LL DINE AWHILE . THEN WE’LL DINE AWHILE
+THEN WE'LL DINE AWHILE . THEN WE'LL DINE AWHILE
 ON CREPE SUZETTES. , ON CREPE SUZETTES.
-OFF TO YES, WE’RE OFF TO
+OFF TO YES, WE'RE OFF TO
 MASSACHUSETTS, MASSACHUSETTS
-YES, WE’RE OFF
-YES, WE’RE OFF
+YES, WE'RE OFF
+YES, WE'RE OFF
 BETH & MR. LAURENCE
 TO WHERE THE SHOPS ARE SWEET!
 WE WILL HAVE NO REGRETS
@@ -1860,7 +1921,7 @@ BETH
 Goodbye, sir.
 MR. LAURENCE
 (HE stops suddenly and turns to her)
-Come visit me tomorrow. I'll find the key to that old piano. We'll see if there’s some
+Come visit me tomorrow. I'll find the key to that old piano. We'll see if there's some
 music left in it. Will you come?
 BETH
 Yes.
@@ -1880,7 +1941,7 @@ MEG
 Oh, Beth -
 BETH
 (coming right in)
-He’s really not as horrible as we imagined.
+He's really not as horrible as we imagined.
 (SHE happily plays a few notes of the song.
 Suddenly from outside the house THEY hear JO call) 
 LITTLE WOMEN ~ 49
@@ -1899,7 +1960,7 @@ LAURIE
 She was skating by the bridge. And suddenly the ice gave way - I got to her just in time.
 jo
 (Pacing nervously) |
-She’s careless - she’s rash -
+She's careless - she's rash -
 BETH
 (SHE rushes over with a blanket)
 She just wanted to be with you. Here.
@@ -1907,18 +1968,18 @@ She just wanted to be with you. Here.
 AMY
 I was skating so beautifully -
 Jo
-You don’t think. You know you’re not supposed to skate by the bridge. Everyone
+You don't think. You know you're not supposed to skate by the bridge. Everyone
 knows the ice by the bridge is dangerous.
 AMY
-But you didn’t want me skating near you. I love your stories, Jo. I tried to write one
-to make up for what I did, but I couldn’t think of anything to say. So I drew that
+But you didn't want me skating near you. I love your stories, Jo. I tried to write one
+to make up for what I did, but I couldn't think of anything to say. So I drew that
 picture of you with your beautiful hairJO
 And my big mouth.
 AMY
 And you just ignored it.
-—- 50 — LITTLE WOMEN
+-- 50 - LITTLE WOMEN
 JO
-You skate recklessly. If it wasn’t for Laurie you could have been killed.
+You skate recklessly. If it wasn't for Laurie you could have been killed.
 AMY
 “Maybe it would have been better if I had.
 JO
@@ -1928,12 +1989,12 @@ was: I could have lost you.
 LAURIE
 Then go on, Jo - forgive her.
 MEG
-See how much she’s changedBETH LAURIE
+See how much she's changedBETH LAURIE
 See her sweet side I think she deserves another chance.
 JO
 Everybody, stop it!
 (To AMY)
-I was devastated when you burned my story. I didn’t understand how you could do
+I was devastated when you burned my story. I didn't understand how you could do
 such a thing. Promise me - promise you'll never think of me as an enemy. Buta
 sister who loves you.
 AMY
@@ -1947,7 +2008,7 @@ Forever!
 (THEY all look at LAURIE, who is embarrassed by lus outburst)
 jo
 _..Lauric. Laurie who saved Amy and made this day possible.
-#12 ~— Five Forever
+#12 ~- Five Forever
 I want to declare before everyone - before the world - that on this day of forgiveness
 LITTLE WOMEN _
 (JO)
@@ -1955,18 +2016,18 @@ LITTLE WOMEN _
 SWEAR TO US YOUR GREATEST OATH OF LOYALTY.
 AN OATH AS DAZZLING AS YOUR CHARMS,
 LAURIE
-| SWEAR I’LL FOLLOW YOU LIKE ROYALTY.
+| SWEAR I'LL FOLLOW YOU LIKE ROYALTY.
 AMY, MEG & BETH
 COME WEAR OUR ROYAL COAT OF ARMS.
 JO
 FROM NOW ON WE ARE JOINED
 AND WE SHALL NOT BE PARTED.
-FROM THIS DAY ON IT’S ALL FOR ONE
+FROM THIS DAY ON IT'S ALL FOR ONE
 AND ONE FOR ALL FOR LIFE.
 LAURIE
 WE'LL LIVE LIKE MUSKETEERS.
 AMY, MEG & BETH
-TOGETHER WE’LL PREVAIL.
+TOGETHER WE'LL PREVAIL.
 ALL
 WE'LL BE FIVE FOR ALL FOREVER FROM NOW ON.
 BETH
@@ -1979,7 +2040,7 @@ WE'LL ALWAYS LIVE AND DIE AS ONE.
 FROM, NOW ON WE ARE JOINED
 AND WE SHALL NOT BE PARTED.
 Jo
-FROM THIS DAY ON IT’S ALL FOR ONE
+FROM THIS DAY ON IT'S ALL FOR ONE
 ALL
 AND ONE FOR ALL FOR LIFE.
 JO
@@ -1992,9 +2053,9 @@ WE'LL BE FIVE FOR ALL FOREVER FROM NOW ON.
 Speech! Speech!
 LAURIE
 ON THIS WONDERFUL DAY,
-ONE I’LL NEVER FORGET,
+ONE I'LL NEVER FORGET,
 I AM HONORED TO SAY I AM YOURS. AH!
-Meg’s in love.
+Meg's in love.
 (Dance Break)
 ALL
 FROM THIS DAY ON WE SWEAR
@@ -2005,26 +2066,26 @@ WE'LL CONQUER EVERY FOE
 JO
 WITH OUR BROTHER BY OUR SIDE.
 MEG
-And if John Brooke were here, he’d be our brother too!
+And if John Brooke were here, he'd be our brother too!
 LAURIE .
 JO
-WE’LL CONSIDER ANY FRIEND!
+WE'LL CONSIDER ANY FRIEND!
 LAURIE
 WE'LL BE LOYAL TO THE END!
 GIRLS
-WE'LL BE FIVE FOR ALL FOREVER —
+WE'LL BE FIVE FOR ALL FOREVER -
 LAURIE
-WE'LL BE FIVE FOR ALL FOREVER —
+WE'LL BE FIVE FOR ALL FOREVER -
 ALL
 WE'LL BE FIVE FOR ALL FOREVER FROM NOW ON!
 AND ON
 AND ON
 FROM NOW ON!
 GIRLS
-IT’S WONDERFUL...
+IT'S WONDERFUL...
 NEVER FORGET...
-LITTLE WomMeEN - 53 —
-13 — Transition
+LITTLE WomMeEN - 53 -
+13 - Transition
 SCENE 5/6
 (THE SUN PORCH - outside the March House. Spring 1865)
 MR. LAURENCE
@@ -2034,9 +2095,9 @@ MARMEE
 (calls)
 Amy, darling! Are you ready? Amy, Aunt March will be here soon!
 MR. LAURENCE
-You don’t want to miss your train.
+You don't want to miss your train.
 MARMEE
-I'll need a few more minutes. I’m waiting for Jo. Tell me I’m doing the right thing.
+I'll need a few more minutes. I'm waiting for Jo. Tell me I'm doing the right thing.
 MR. LAURENCE
 You're doing the right thing.
 MARMEE
@@ -2044,7 +2105,7 @@ I've never left my girls before.
 ._MR. LAURENCE
 Your husband has pneumonia and needs you with him in Washington.
 MARMEE
-I feel like I’m being torn in two. One part of me here, the other part -
+I feel like I'm being torn in two. One part of me here, the other part -
 MR. LAURENCE
 I'll look in on the girls every day.
 MARMEE
@@ -2062,31 +2123,31 @@ MARMEE
 Thank you, Beth.
 LAURIE
 (HE enters from inside with a sinall valise)
-Amy’s almost ready. She’s packing up half the house.
-(HE goes to load the valise in Aunt March’s carriage)
+Amy's almost ready. She's packing up half the house.
+(HE goes to load the valise in Aunt March's carriage)
 MARMEE
-Where’s Jo? _I sent her to Aunt March’s hours ago. She should have been back by now.
+Where's Jo? _I sent her to Aunt March's hours ago. She should have been back by now.
 BETH
 I'll go find her.
 (SHE goes)
 MEG
 (SHE rushes in)
-Here’s the shaw] Father loves so much.
+Here's the shaw] Father loves so much.
 AMY
 (SHE rushes in)
-Marmee, please don’t make me go to Aunt March’s house. It scares me.
-Everything’s so old init. I drew this picture of you - with apple blossoms in your
-hair. The Goddess of Spring. It’s for Father. Is he going to die?
+Marmee, please don't make me go to Aunt March's house. It scares me.
+Everything's so old init. I drew this picture of you - with apple blossoms in your
+hair. The Goddess of Spring. It's for Father. Is he going to die?
 MARMEE
 (Hugs her)
 No, Amy, I'll see to it that he recovers. Go get the rest of your things.
 (JO rushes in, her head covered, followed by BETH)
 Jo
-Marmee, Marmee, I’m sorry I'm so late. I did get the money though -
+Marmee, Marmee, I'm sorry I'm so late. I did get the money though -
 MARMEE
 Thank you, Jo. I know how difficult it is for you to ask Aunt March -
 jo
-I didn’t ask her. I couldn’t. So I walked to the town common and stood there all
+I didn't ask her. I couldn't. So I walked to the town common and stood there all
 morning trying to sell my stories. And when that failed ... I sold my hair.
 (SHE rips off the head covering, revealing a shorn head)
 BETH MEG
@@ -2096,17 +2157,17 @@ wn
 AMY
 You're bald.
 Jo
-I’m not bald.
+I'm not bald.
 AMY
 But your hair was your best feature.
 BETH
 She looks beautiful.
 Jo
-Now Marmee’ll have money enough to get to Washington and stay with Father for
+Now Marmee'll have money enough to get to Washington and stay with Father for
 as long as he needs her. Here: 27 dollars and 25 cents. I threw in a few coins I had
 stashed away. .
 MARMEE
-You shouldn’t have done this, Jo. I’m so -
+You shouldn't have done this, Jo. I'm so -
 JO
 Disappointed?
 MARMEE
@@ -2132,57 +2193,57 @@ MARMEE
 Come, let me hold my girls.
 (SHE embraces them.)
 AMY
-We’ ve never been parted before. I feel awfulMEG ~
+We' ve never been parted before. I feel awfulMEG ~
 (not wanting Marmee to worry)
 Amy!
 JO
-I'll look after everything, Marmee. Don’t worry.
+I'll look after everything, Marmee. Don't worry.
 AUNT MARCH
 (SHE enters swiftly)
 My dear Margaret, make certain your husband recovers.
 MARMEE
 Yes, Aunt March. Thank you for taking Amy. Amy, tell Aunt March how excited you are.
 AMY
-I’m so excited about living with you while Marmee’s in Washington.
+I'm so excited about living with you while Marmee's in Washington.
 AUNT MARCH
 Naturally.
 MARMEE
 (to the Girls)
-No glum faces. And no tears. I’ll be back as soon as possible. How did you all
+No glum faces. And no tears. I'll be back as soon as possible. How did you all
 grow up so fast? Goodbye, Aunt March.
 (SHE goes, followed by The GIRLS. AMY says)
 AMY
 And you'll tell Father how much I miss him- and love him.
 AUNT MARCH
-(bellows, shocked, sees JO’s shorn hair for the first time)
+(bellows, shocked, sees JO's shorn hair for the first time)
 Josephine, what have you done?!
 JO
 I sold my hair so Marmee could have a safe journey to Washington.
 AUNT MARCH
 (fitrtous)
-You did what? I’ve told you, if you need money, come to me! 
-LiItTec WOMEN _ 57 —
+You did what? I've told you, if you need money, come to me! 
+LiItTec WOMEN _ 57 -
 JO
 I was hoping to earn my own money.
 AUNT MARCH
-Cutting one’s hair and selling it like a beggar ~ is not an option fora lady. You look like a shorn sheep! Have you forgotten our contract?
+Cutting one's hair and selling it like a beggar ~ is not an option fora lady. You look like a shorn sheep! Have you forgotten our contract?
 (The GIRLS return)
 JO
 I never forget it. Traveling. Seeing Europe. Paris. London -
 AUNT MARCH
-You don’t live up to your part of the bargain - why should I live up to mine?
+You don't live up to your part of the bargain - why should I live up to mine?
 ice)
 I've tried to live up to my part of the bargain. I went to a ball. I improved my
 manners. I read books on etiquette - I practiced dancing with Meg -
-I held my tongue in several situations when I wanted to scream out. I’ve got a fire in me, Aunt March!
+I held my tongue in several situations when I wanted to scream out. I've got a fire in me, Aunt March!
 AUNT MARCH
-Well, just see how far this ‘fire’ takes you in life. See what doors this ‘fire’ will open. See what society thinks of your ‘fire.’
+Well, just see how far this 'fire' takes you in life. See what doors this 'fire' will open. See what society thinks of your 'fire.'
 JO
 To hell with society!
 AUNT MARCH
 Josephine!
 JO
-We don’t live for society. We live for what we have inside of us. We live to expand our minds. Fulfill our dreams. Engage in passionate exchanges -
+We don't live for society. We live for what we have inside of us. We live to expand our minds. Fulfill our dreams. Engage in passionate exchanges -
 AUNT MARCH
 That's enough! You think you know everything, and you know nothing! As for Europe, you can forget it! Europe is meant for someone with a little more understanding of its rewards!
 Jo
@@ -2204,43 +2265,43 @@ And my hair will grow back!
 AUNT MARCH
 And -who is this man?
 MEG
-He’s Laurie’s tutor. And a friend.
+He's Laurie's tutor. And a friend.
 AUNT MARCH
 (firm)
 Well, tell your friend, his visit should be brief! Amy, collect your things. I'll be
 waiting for you in the carriage. I have plans for you.
 AMY
-Yes, ma’am.
+Yes, ma'am.
 (SHE rushes upstairs to get her things as AUNT MARCH goes)
 MEG
 John what have you done?
 MR. BROOKE
-I’ve enlisted. I couldn’t stand by any longer. Your own father is in the army hospital
+I've enlisted. I couldn't stand by any longer. Your own father is in the army hospital
 in Washington. I have friends who will never return.
 MEG
 ... When do you leave?
 MR. BROOKE
 Tonight.... Meg -
 (HE takes out the notes he has written down. Reads)
-Margaret. I’m nota rich man. And I’m not particularly handsome -
+Margaret. I'm nota rich man. And I'm not particularly handsome -
 MEG
 (interrupting)
 You're very handsome, John.
-LitTTLe WOMEN ~ 59 —
+LitTTLe WOMEN ~ 59 -
 MR. BROOKE
 (surprised)
 Really? You think so?
 (HE reads)
-I’m not the wisest man in the world
+I'm not the wisest man in the world
 MEG
 (interrupting)
 You're very wise.
-#14-—- More Than! Am
+#14--- More Than! Am
 MR. BROOKE
 Thank you.... Meg ... Margaret -
 IF YOU COULD FIND IT IN YOUR HEART,
 IF YOU COULD LOVE ME AS I LOVE YOU,
-IF ONLY YOU’D CARE WHILE WE ARE APART -
+IF ONLY YOU'D CARE WHILE WE ARE APART -
 -(HE looks at Meg)
 THEN | WOULD BE RICH.
 | WOULD BE WISE.
@@ -2248,13 +2309,13 @@ THEN | WOULD BE RICH.
 MORE THAN I AM.
 MEG
 WAIT FOR YOUR RETURN?
-WAIT WHILE YOU’RE AT WAR?
+WAIT WHILE YOU'RE AT WAR?
 MR. BROOKE MEG
 IF YOU WILL WAIT WHILE I AM GONE,
 IF YOU'LL IMAGINE ME HERE WITH YOU.
 IF ONLY YOU'LL CARE IF | CARRY ON,
 THEN I COULD BE STRONG. WHY MUST YOU GOD?
-| COULD BE BRAVE. DON’T BE TOO BRAVE.
+| COULD BE BRAVE. DON'T BE TOO BRAVE.
 I COULD BE MORE, ONLY COME HOME.
 MORE THAN [| AM.
 IF YOU WILL SAY YOU LOVE ME
@@ -2263,7 +2324,7 @@ ENOUGH TO MARRY ME, .
 JR ALL OF MY LIFE.
 AND | WILL BE MORE, MORE THAN I AM.
 SAY YES, MAKE ME MORE THAN | AM.
-60 —- . LittTLe WOMEN
+60 -- . LittTLe WOMEN
 MEG
 VLL MARRY YOU TOMORROW.
 I'LL MARRY YOU TODAY.
@@ -2288,26 +2349,26 @@ Five times a day!
 (HE goes.
 JO rushes back in, excited, holding books and maps. BETH and AMY follow. AMY
 has her small valise, two dolls and her drawing supples)
-y, It’s settled! jo
+y, It's settled! jo
 MEG
 (dazed by what has happened)
 What?
 JO
-We'll all go to Europe! Why shouldn’t we go? Here we are young women on our
-own-taking care of ourselves. It’s time we looked ahead. We'll save our pennies. I'll
+We'll all go to Europe! Why shouldn't we go? Here we are young women on our
+own-taking care of ourselves. It's time we looked ahead. We'll save our pennies. I'll
 get a real job.
 MEG
 Jo -
 LiTTLE WOMEN
 JO
 {ve worked out our itinerary. We'll go to Spain first. Madrid. Then to Rome. Visit
-the Vatican. Have an audience with the Pope. It’s a wonderful idea, isn’t it?
+the Vatican. Have an audience with the Pope. It's a wonderful idea, isn't it?
 MEG
 Jo, I'm engaged. John proposed. And I accepted.
 AMY
-Meg? Meg. that’s so romantic. Engaged? Meg’s engaged. Have a big wedding.
-Aunt March says they’re very fashionableBETH
-Amy, Aunt March is waiting for you. I’ll come visit you later.
+Meg? Meg. that's so romantic. Engaged? Meg's engaged. Have a big wedding.
+Aunt March says they're very fashionableBETH
+Amy, Aunt March is waiting for you. I'll come visit you later.
 AMY
 (SHE grabs all her things)
 Bye, everyone. |
@@ -2315,22 +2376,22 @@ Bye, everyone. |
 JO
 What about our promise to remain together?
 MEG
-6... made that a long time ago. I’ve changed, Jo - you’ve changed.
+6... made that a long time ago. I've changed, Jo - you've changed.
 ; jo
-I haven't changed. I’d never make a promise one day - then break it another. Our
+I haven't changed. I'd never make a promise one day - then break it another. Our
 word is everything, Meg.
 MEG
 I love him.
 Jo
-So you love him? I’m talking about us, Meg. We're alone now. We only have each
+So you love him? I'm talking about us, Meg. We're alone now. We only have each
 other. Our future as a family is at stakeMEG
 JoJO
-You can’t turn your back on us.
+You can't turn your back on us.
 MEG
 I'm not turning my back on you -
 9)
-@ told you I’m going to become a famous writer.
--~ 62 — LitrTtce WOMEN
+@ told you I'm going to become a famous writer.
+-~ 62 - LitrTtce WOMEN
 MEG
 I know.
 JO
@@ -2344,22 +2405,22 @@ Jo
 I've lost MegBETH
 You haven't lost Meg.
 JO
-I’ve lost my trip to Europe. ,
+I've lost my trip to Europe. ,
 BETH
 You'll find your way there some day, Jo. I know you will. You can do anything.
 You can make the clouds disappear.
 JO
-It’s you who makes the clouds disappear.
+It's you who makes the clouds disappear.
 BETH
 Come, walk with me and tell me all about your adventures today.
-#14a— Transition To Attic
+#14a- Transition To Attic
 JO
 Well, I sold my hair.
 BETH
 Yes
 JO
 And before that, I stood in the common, and when no one paid attention to me, I
-cried out, ‘Jo March is here!’ And then I recited my story: ‘Carlotta, the madwoman
+cried out, 'Jo March is here!' And then I recited my story: 'Carlotta, the madwoman
 in the attic...”
 (Her voice trails off, as the scene segues to the ATTIC, several weeks later)
 SCENE 7
@@ -2367,37 +2428,37 @@ SCENE 7
 LiTTLE WOMEN 63
 LAURIE
 (overlapping. HE is reading from her story)
-‘... Carlotta the madwoman in the attic, a creature of gall, a spinster rejected by the world . .. hungry for blood, rose from the dark - ’
+'... Carlotta the madwoman in the attic, a creature of gall, a spinster rejected by the world . .. hungry for blood, rose from the dark - '
 (HE calls)
 Jo! Jo March!
 (HE continues reading)
-“- her eyes were beady red, her hair ghastly white -’
+“- her eyes were beady red, her hair ghastly white -'
 (HE calls)
 Jo, it's your best friend - Theodore Laurence the Third!
 (HE continues reading)
-‘- and her fingers clutched with rage, as she went out into the wretched night - ’
+'- and her fingers clutched with rage, as she went out into the wretched night - '
 JO
 (SHE bursts through the attic window, where she had been outside sorting out her thoughts, even writing. SHE is delighted to see him)
-Laurie! Laurie, Laurie, Laurie! Christopher Columbus, it’s so good to see you! You've not been here in weeks.
+Laurie! Laurie, Laurie, Laurie! Christopher Columbus, it's so good to see you! You've not been here in weeks.
 id | LAURIE
 I was in Boston. I have dreadful news.
 Jo
 What news?
 LAURIE
-With the war ended, grandfather’s insisted I get on with my life. He enrolled me in school.
+With the war ended, grandfather's insisted I get on with my life. He enrolled me in school.
 JO
 What?
 LAURIE
 I'm going off to college in time for the summer session.
 Jo
-That’s wonderful news!
+That's wonderful news!
 LAURIE
-What's wonderful about it? Leaving the best friend I’ve ever had?
+What's wonderful about it? Leaving the best friend I've ever had?
 Jo
-an’t Imagine life in Concord without you: Not seeing your silly grin every day -
+an't Imagine life in Concord without you: Not seeing your silly grin every day -
 64 _ LITTLE WOMEN
 LAURIE
-I don’t want to go.
+I don't want to go.
 JO
 But you've got to go. This is an incredible opportunity. College - I'd go in a minute.
 I'd study everything.
@@ -2415,12 +2476,12 @@ Ever since that first day I saw you - do you remember that day -
 JO
 Of course.
 LAURIE
-- the day you chopped down grandfather’s cherished tree - 1 knew then that you
+- the day you chopped down grandfather's cherished tree - 1 knew then that you
 and I would be magnificent together.
 JO
 We are magnificent together.
 LAURIE
-My sweet Jo - for weeks now - months even - this whole year actually - I’ve wanted to -
+My sweet Jo - for weeks now - months even - this whole year actually - I've wanted to -
 (HE kisses her) . jo
 (pulling back)
 What was that?
@@ -2429,12 +2490,12 @@ A kiss.
 JO
 I know it was a kiss. 
 LitrTLcé WOMEN
-#15 —- Take A Chance Reprise
+#15 -- Take A Chance Reprise
 LAURIE
-It was my first kiss. I’ve thought about it a long time -
+It was my first kiss. I've thought about it a long time -
 WE COULD LIVE A MILLION DREAMS, BUT ONLY IF WE DARE.
 WE COULD GO TO SUCH EXTREMES.
-THERE’S SO MUCH WE COULD SHARE.
+THERE'S SO MUCH WE COULD SHARE.
 (HE comes at her again)
 Jo
 (Holding him off)
@@ -2446,7 +2507,7 @@ A ring? What are you talking about? ;
 LAURIE
 I want to marry you.
 Jo
-Marry me? Stop this, Laurie - it’s not funny.
+Marry me? Stop this, Laurie - it's not funny.
 LAURIE
 I practiced saying the words over and over: “Marry me. Marry meJo
 Have you gone mad?
@@ -2455,16 +2516,16 @@ Have you gone mad?
 JO
 No. No. No, find someone else! Find - find some accomplished girl!
 LAURIE
-[ don’t want an accomplished girl. I want you!
+[ don't want an accomplished girl. I want you!
 JO
-Well, you can’t have me!
+Well, you can't have me!
 LAURIE
 At least say you'll think about it.
-—~ 66 — LITTLE WOMEN
+-~ 66 - LITTLE WOMEN
 O
-There’s nothing to think about. I'll never very
+There's nothing to think about. I'll never very
 LAURIE
-You don’t mean that?
+You don't mean that?
 JO
 I do mean it!
 LAURIE
@@ -2472,7 +2533,7 @@ You'll marry.
 JO
 I won't!
 LAURIE
-You will. Just not me. That’s what you’re really saying. You'll find someone -
+You will. Just not me. That's what you're really saying. You'll find someone -
 JO
 Go away! I thought you understood me.
 LAURIE
@@ -2484,9 +2545,9 @@ Jo!
 JO
 Please, just go!
 (HE rushes off)
-#16 — Astonishing
-WHO IS HE, WHO IS HE WITH HIS ‘MARRY ME,’
-WITH HIS RING AND HIS ‘MARRY ME’?
+#16 - Astonishing
+WHO IS HE, WHO IS HE WITH HIS 'MARRY ME,'
+WITH HIS RING AND HIS 'MARRY ME'?
 THE NERVE, THE GALL.
 THIS IS NOT, NOT WHAT WAS MEANT TO BE.
 HOW COULD HE RUIN IT ALL WITH THOSE TWO WORDS?
@@ -2498,31 +2559,31 @@ HOW COULD I BE SO WRONG?
 LITTLE WOMEN 67
 (JO)
 AND I NEED, HOW I NEED MY SISTERS HERE,
-IF | CAN’T SHARE MY DREAMS,
+IF | CAN'T SHARE MY DREAMS,
 WHAT WERE THEY FOR?
 | THOUGHT OUR PROMISE MEANT THAT WE WOULD
 NEVER CHANGE AND NEVER PART.
-I THOUGHT TOGETHER WE’D AMAZE THE WORLD!
+I THOUGHT TOGETHER WE'D AMAZE THE WORLD!
 HOW CAN I LIVE MY DREAMS OR EVEN START
 WHEN EVERYTHING HAS COME APART?
-I THOUGHT HOME WAS ALL I’D EVER WANT.
-MY ATTIC ALL I’D EVER NEED.
+I THOUGHT HOME WAS ALL I'D EVER WANT.
+MY ATTIC ALL I'D EVER NEED.
 NOW NOTHING FEELS THE WAY IT WAS BEFORE
-AND I DON’T KNOW HOW TO PROCEED.
-| ONLY KNOW I’M MEANT FOR SOMETHING MORE
-’'VE GOT TO KNOW IF I CAN BE
+AND I DON'T KNOW HOW TO PROCEED.
+| ONLY KNOW I'M MEANT FOR SOMETHING MORE
+''VE GOT TO KNOW IF I CAN BE
 ASTONISHING.
-THERE’S A LIFE THAT I AM MEANT TO LEAD,
+THERE'S A LIFE THAT I AM MEANT TO LEAD,
 ALIVE LIKE NOTHING I HAVE KNOWN.
-I CAN FEEL IT AND IT’S FAR FROM HERE.
-’'VE GOT TO FIND IT ON MY OWN.
+I CAN FEEL IT AND IT'S FAR FROM HERE.
+''VE GOT TO FIND IT ON MY OWN.
 EVEN NOW I FEEL ITS HEAT UPON MY SKIN:
 A LIFE OF PASSION THAT PULLS ME FROM WITHIN.
 A LIFE THAT I AM ACHING TO BEGIN.
 THERE MUST BE SOMEWHERE I CAN BE
 ASTONISHING.
 ASTONISHING.
-V’LL FIND MY WAY.
+V'LL FIND MY WAY.
 (LL FIND IT FAR AWAY.
 ULE FIND IT IN THE UNEXPECTED AND UNKNOWN.
 (LL FIND MY LIFE IN MY OWN WAY - TODAY.
@@ -2532,7 +2593,7 @@ MY GREAT ADVENTURE HAS BEGUN.
 TO SHINE AS BRIGHTLY AS THE SUN.
 [ WILL BLAZE UNTIL! FIND MY TIME AND PLACE,
 { WILL BE FEARLESS, SURRENDERING MODESTY AND GRACE.
-—~ 68 — LITTLE WOMEN
+-~ 68 - LITTLE WOMEN
 (JO)
 1 WILL NOT DISAPPEAR WITHOUT A TRACE.
 VLLSHOUT AND START A RIOT,
@@ -2545,7 +2606,7 @@ AT LAST.
 (End of Act One)
 ACT TWO
 SCENE 1
-(THE PARLOR OF MRS. KIRK’S BOARDING HOUSE: June 1865.
+(THE PARLOR OF MRS. KIRK'S BOARDING HOUSE: June 1865.
 MRS. KIRK, a ntiddle-aged Irish woman, rushes in)
 pe Enirecte
 MRS. KIRK
@@ -2586,36 +2647,36 @@ Very pathetic. And I have given her three German lessons.
 MRS. KIRK
 Three - that many?
 PROFESSOR BHAER
-And I’ve taken her to lectures, to the park to hear speakers, but Miss
+And I've taken her to lectures, to the park to hear speakers, but Miss
 March hardly seems to know I exist. She is preoccupied. She rushes
 past me like the wind.
 (JO rushes past him, excited, having just come in from outside)
 Jo
 Christopher Columbus! Mrs. Kirk, have you seen the Professor?
 MRS. KIRK
-Behind you, darlin’. . e
+Behind you, darlin'. . e
 (turns and stops)
 Aah! Guten teg.
 PROFESSOR BHAER
-Guten tag, Miss March. The word is Tag. Guten tag means ‘good day.’
+Guten tag, Miss March. The word is Tag. Guten tag means 'good day.'
 jo
 T know what it means. But when you taught it to me, you said, Guten teg. 
 - 70 - LirTtre WOMEN
 PROFESSOR BHAER
 I would never say teg.
 JO
-Well, I’m sure you did.
+Well, I'm sure you did.
 PROFESSOR BHAER
-Well, I’m sure I didn’t.
+Well, I'm sure I didn't.
 JO
 All right then: Guten tag. And it is a very guten tag. A wonderful
 guten tag, Professor. And I have some amazing news!
-#18 —-—The Weekly Volcano Press
+#18 ---The Weekly Volcano Press
 1 CAME TO NEW YORK ON A DREAM. ,
 I KNEW IT MIGHT TAKE ME AWHILE.
-BUT ALL I’VE BEEN HEARING SINCE I ARRIVED
-IS ‘LEAVE IT RIGHT THERE ON THE PILE.’
-SO TODAY I WOKE UP AND DECIDED IT’S TIME.
+BUT ALL I'VE BEEN HEARING SINCE I ARRIVED
+IS 'LEAVE IT RIGHT THERE ON THE PILE.'
+SO TODAY I WOKE UP AND DECIDED IT'S TIME.
 TIME TO ACHIEVE, TIME TO THRIVE, TIME TO CLIMB!
 PROFESSOR BHAER
 Miss March, tell us what happened!
@@ -2623,7 +2684,7 @@ jo
 SOMETIMES WHEN YOU DREAM,
 YOUR DREAM IS JUST A GUESS.
 SOMETIMES WHEN YOU WORK REALLY HARD,
-YOU DON’T KNOW IF YOU’LL EVER FIND SUCCESS.
+YOU DON'T KNOW IF YOU'LL EVER FIND SUCCESS.
 SO | GRABBED A STORY TO SELL
 AND GOT READY TO RAISE HELL!
 THEN I MARCHED OUT THE DOOR,
@@ -2636,7 +2697,7 @@ DASHWOOD WAS A FIEND,
 HE SNEERED AT MY DISTRESS.
 TOSSED MY STORY HIGH ON A STACK.
 BUT | WAS DETERMINED I WOULD PROGRESS!
-1 SAID: ‘SIR, ’LL WAIT WHILE YOU READ.’ 
+1 SAID: 'SIR, 'LL WAIT WHILE YOU READ.' 
 LITTLE WOMEN
 (JO)
 BUT, ALAS, HE DISAGREED,
@@ -2647,16 +2708,16 @@ PROFESSOR BHAER MRS. KIRK
 You did what? _ Oh, my!
 JO
 (as Clarissa)
-‘Keep away from me, you wretch!”
+'Keep away from me, you wretch!”
 (as Braxton)
-‘T cannot keep away. Your beauty draws me. Your passion ignites me - ‘
+'T cannot keep away. Your beauty draws me. Your passion ignites me - '
 PROFESSOR BHAER
 (recognizing the story)
-Ah! It’s the one with all the horror in it! The blood bath!
+Ah! It's the one with all the horror in it! The blood bath!
 JO
-we hat’s the one! I took to heart what you said - I embellished. I made it better.
+we hat's the one! I took to heart what you said - I embellished. I made it better.
 Lightning strikes! Thunder claps!
-(In JO’s imagination, we see the WILD HEATH. CLARISSA enters, pursued by
+(In JO's imagination, we see the WILD HEATH. CLARISSA enters, pursued by
 BRAXTON)
 BRAXTON & JO
 I'VE GOT TO HAVE YOU!
@@ -2684,7 +2745,7 @@ OF TEN YEARS AGO.
 (To CLARISSA)
 Run to the forest! Run!
 CLARISSA
-Ican’t! The forest is dangerous! My sister went in there and never returned.
+Ican't! The forest is dangerous! My sister went in there and never returned.
 RODRIGO
 You must risk it! You must take the dark path. Your fate awaits you there.
 BRAXTON
@@ -2699,17 +2760,17 @@ En garde!
 RODRIGO
 (drawing his sword)
 (To CLARISSA)
-Go — now!
+Go - now!
 (The WILD HEATH disappears.)
 JO
 DASHWOOD WAS AGHAST.
 BUT { COULD NOT CARE LESS!
 WORDS | SPOKE IGNITED THE AIR.
 | FELT LIKE A PUBLISHING LIONESS!
-THAT’S WHEN DASHWOOD STARTED TO SHOUT 
+THAT'S WHEN DASHWOOD STARTED TO SHOUT 
 LItTLE WOMEN
 (JO)
-AND | THOUGHT HE’D THROW ME OUT!
+AND | THOUGHT HE'D THROW ME OUT!
 BUT THEN I PERSEVERED
 AND A FOREST APPEARED
 AT THE WEEKLY VOLCANO PRESS!
@@ -2738,7 +2799,7 @@ CLARISSA
 (Giving her combs to the Hag)
 I'VE GOT TO KNOW.
 PLEASE SHOW ME WHERE TOGO.
-74 — LITTLE WOMEN
+74 - LITTLE WOMEN
 HAG
 (Pointing to one of the roads)
 YOUR FATE AWAITS YOU THERE.
@@ -2759,18 +2820,18 @@ TROLL
 IE YOU WANT TO CROSS: YOU MUST PAY ME!
 VE THE ONLY BOAT THAT CAN GET YOU THERE ALIVE.
 {SEE YOU WEAR A NECKLACE THAT HOLDS A PRETTY JEWEL.
-MY PRICE TO GET ACROSS IS WHAT YOU’RE WEARING ROUND YOUR NECK
-OH HOW IT’S GLITTER MAKES ME DROOL.
+MY PRICE TO GET ACROSS IS WHAT YOU'RE WEARING ROUND YOUR NECK
+OH HOW IT'S GLITTER MAKES ME DROOL.
 CLARISSA
 (looking at her necklace)
 I'VE NOTHING LEFT BUT THIS.
 MY PROSPECTS ARE SO BLEAK.
 TROLL
-YOU’LL NEVER KNOW WHAT WISDOM IS
+YOU'LL NEVER KNOW WHAT WISDOM IS
 UNTIL YOU GIVE UP ALL YOUR RICHES.
 CLARISSA
 (giving the TROLL her necklace)
-HERE: IT’S YOURS!
+HERE: IT'S YOURS!
 NOW SHOW ME DISTANT SHORES. 
 LITTLE WOMEN 75
 TROLL
@@ -2808,7 +2869,7 @@ Give me vour time.
 CLARISSA
 My fate awaits me.
 KNIGHT
-Can you not care for me? It’s been years since I felt the touch of another hand.
+Can you not care for me? It's been years since I felt the touch of another hand.
 CLARISSA
 (stops and looks at him)
 Then take mine.
@@ -2820,8 +2881,8 @@ You have completed your journey. My sword is yours. It will protect you against
 your enemies. You can now return to the moors.
 YOUR FATE IS IN YOUR HANDS.
 JO
-And Clarissa raced from the forest, raced to the moors, where she called: ‘I have
-returned, Braxton! I will free the moors of your tyranny! Fight mel!’
+And Clarissa raced from the forest, raced to the moors, where she called: 'I have
+returned, Braxton! I will free the moors of your tyranny! Fight mel!'
 BRAXTON
 (appearing)
 I always knew you'd come back to me. They always do!
@@ -2833,50 +2894,50 @@ leaps up on a craggy rock, her sword swishing and swooshing. Never has she been
 so determined. She is on fire! Pity she hadnt taken dueling lessons. Out of
 nowhere-who should appear-the long forgotten Rodrigo.
 (BRAXTON knocks the sword from her hand. RODRIGO 2 appears, scemingly out of
-nowhere, and grabs the sword out of thin air and puts the blade through BRAXTON'’s
+nowhere, and grabs the sword out of thin air and puts the blade through BRAXTON''s
 heart.)
 RODRIGO 2
-This is your end, villain! I’ve waited a lifetime to destroy you.
+This is your end, villain! I've waited a lifetime to destroy you.
 BRAXTON
 (to Rodrigo) -
 Who ARE you?
-LitTTLE WOMEN —
+LitTTLE WOMEN -
 RODRIGO 2
-am your worst nightmare, Braxton. [am — her sister!
+am your worst nightmare, Braxton. [am - her sister!
 (RODRIGO 2 rips the plumed hat front her head, revealing long curls that cascade
 down her shoulders and back. Everybody, including PROFESSOR BHAER and MRS.
 KIRK, gasps audibly. BRAXTON dies.)
 Jo
 AND THEN DASHWOOD GOT ON HIS KNEES,
-CRYING, ‘SELL THIS TO ME, PLEASE!’
+CRYING, 'SELL THIS TO ME, PLEASE!'
 PROFESSOR BHAER
 (pleased)
 Miss March!
 jo
 THEN HE ORDERED FOUR MORE.
-NOW I’M WRITING FOR
+NOW I'M WRITING FOR
 THE WEEKLY VOLCANO PRESS!
 The entire Chorus of Hags, Trolls and Monks joins the entire company at SCORE
 #18, measure 172 and sings as noted in the score through to the end of the song. All
-Chorus members exit with company at song’s end. ;
+Chorus members exit with company at song's end. ;
 5
 PROF. BHAER, MRS. KIRK, JO, CLARISSA, RODRIGO,
 HAG, TROLL, KNIGHT RODRIGO 2
-SOMETIMES ’M READY FOR DESTINY!
+SOMETIMES 'M READY FOR DESTINY!
 WHEN YOU DREAM MY TRESSES ARE CURLED.
 YOUR DREAMS LL TAKE WHAT IS
 COME TRUE RIGHTLY MINE,
 IN EXTRAORDINARY WAYS. WITH CURTAINS UNFURLED.
 SUDDENLY A DAY 1 WILL NOT QUIT,
-CAN BE SO AMAZING. | WON’T BE FORGOTTEN.
+CAN BE SO AMAZING. | WON'T BE FORGOTTEN.
 AND SOMETIMES | WILL SHINE,
 WHEN YOU YEARN I'LL DAZZLE
 YOU BURN THE AIR, AND MORE!
-AND THEN YOU ARE I’M READY TO
+AND THEN YOU ARE I'M READY TO
 “OF THE SAME, . TAKE A BOW!
 tHE WORLD BECOMES I'VE TAKEN A
 YOURS TO CLAIM, SOLEMN VOW!
-78 — LITTLE WOMEN
+78 - LITTLE WOMEN
 (PROF. BHAER, MRS. KIRK (JO, CLARISSA, RODRIGO,
 HAG, TROLL, KNIGHT) RODRIGO 2)
 WHEN SOMEONE ELSE MY DESTINY
@@ -2895,7 +2956,7 @@ PROFESSOR BHAER
 About what?
 JO
 (SHE quickly thinks, then blurts out)
-Everything! I’m going to bea published writer! I can’t believe it! Fifteen dollars!
+Everything! I'm going to bea published writer! I can't believe it! Fifteen dollars!
 And twenty-five more for my commission!
 MRS. KIRK
 You are rich!
@@ -2936,7 +2997,7 @@ Dear God, no. My sister Beth has contracted scarlet fever. She is gravely ill. I
 go to her immediately.
 (SHE starts away)
 MRS. KIRK
-I’m sorry, dear. Sorry for you and your family.
+I'm sorry, dear. Sorry for you and your family.
 PROFESSOR BHAER
 Is there anything we can do?
 JO
@@ -2960,7 +3021,7 @@ Accompany me?
 PROFESSOR BHAER
 You - you should not travel alone.
 JO
-I traveled here alone. I’m not afraid. I shall be fine. But thank you.
+I traveled here alone. I'm not afraid. I shall be fine. But thank you.
 (SHE starts away)
 PROFESSOR BHAER
 . (shouts after her)
@@ -2980,8 +3041,8 @@ Your simple acquaintance is leaving you, Professor.
 PROFESSOR BHAER
 Yes.
 (HE is left alone) 
-LiTTLE WOMEN —- SS] =
-18a—-NYC To Concord Transition
+LiTTLE WOMEN -- SS] =
+18a--NYC To Concord Transition
 MRS. KIRK
 (from off-stage)
 Time to get up, Mr. Felix! Feet off the sofa.
@@ -2991,7 +3052,7 @@ SCENE 2
 A few weeks later. JOHN BROOKE, now married to Meg, is assisting MR.
 LAURENCE tn moving his piano into the March house).
 MR. LAURENCE
-A little more, John. Keep pushing. Heavy piece of wood, isn’t it?
+A little more, John. Keep pushing. Heavy piece of wood, isn't it?
 MR. BROOKE
 Light as a feather, sir.
 MR. LAURENCE
@@ -3004,7 +3065,7 @@ MR. BROOKE
 (Stepping back, out of breath, inypressed)
 Yes!
 MR. LAURENCE
-At last it’s found a home.
+At last it's found a home.
 MR. BROOKE
 [t's a beauty, sir. IT] let Jo know -
 MR. LAURENCE
@@ -3012,7 +3073,7 @@ John, wait. The flowers!
 (JOHN rushes for the bouquet. MARMEE rushes in, taking off the apron)
 MARMEE
 (seeing tre piano)
-It's magnificent. But Mr. Laurence, you shouldn’t have.
+It's magnificent. But Mr. Laurence, you shouldn't have.
 82 _ LITTLE WOMEN
 MR. LAURENCE
 But I did. And enough said on the matter.
@@ -3024,7 +3085,7 @@ Jo!
 JO
 She's ready.
 MR. BROOKE
-It’s in place.
+It's in place.
 JO
 (calls)
 Meg!
@@ -3036,7 +3097,7 @@ You'll see.
 BETH
 Is it Amy? Is she back?
 JO
-It’s not Amy. And she’s not back.
+It's not Amy. And she's not back.
 BETH
 Well, what is it?
 JO
@@ -3048,7 +3109,7 @@ Mr. Laurence - ?
 MR. LAURENCE
 Over here.
 (A pregnant MEG appears at the top of the stairs with a frail and blindfolded BETH.
-LitTTLE WOMEN - 83 —
+LitTTLE WOMEN - 83 -
 BETH
 (Turning)
 Your piano?
@@ -3061,15 +3122,15 @@ There was no arguing with him.
 BETH
 But why, sir?
 MR. LAURENCE
-Because it kept calling, ‘Where is that dreadful little March girl?’ It missed you.
+Because it kept calling, 'Where is that dreadful little March girl?' It missed you.
 jo
 Go sit at it, Beth.
 BETH
 Thank vou, Mr. Laurence. I shail treasure it.
-(SHE sits at the piano with Marmee’s help)
+(SHE sits at the piano with Marmee's help)
 MARMEE
 Play something for us, Beth.
-#18b— Beth Plays Piano
+#18b- Beth Plays Piano
 (BETH hits a note. SHE looks up)
 It sounds good.
 (BETH plays a few more notes)
@@ -3082,7 +3143,7 @@ ee." he come see you?
 No.
 MR. LAURENCE
 JO
-84 — LITTLE WOMEN
+84 - LITTLE WOMEN
 MR. LAURENCE
 I'm sorry. But he was in such a bad way. Moping about for weeks. I insisted he do
 some business for me. Then go to Europe and enjoy himself. And guess who he met
@@ -3092,13 +3153,13 @@ Who?
 MR. LAURENCE
 Amy and your Aunt March... Miss March ... may [join you?
 BETH
-It’d be an honor, sir.
+It'd be an honor, sir.
 (HE sits with Beth. SHE plays)
 #19 ~ OffTo Massachusetts Reprise
 MR. LAURENCE
 IF YOU SAY,
 “COME WITH ME,
-OFF TO MASSACHUSETTS,’
+OFF TO MASSACHUSETTS,'
 THEN TO MASSACHUSETTS
 WE WILL GO.
 BETH
@@ -3118,16 +3179,16 @@ OFF TO MASSACHUSETTS,
 YES WE'RE OFF TO WHERE THE SHOPS ARE SWEET!
 WE WILL HAVE NO REGRETS
 OFF IN MASSACHUSETTS...
-LITTLE WOMEN —~ 85 —
+LITTLE WOMEN -~ 85 -
 Jo
 (SHE writes)
-Dear Professor Bhaer: I’ve been wanting to write you.
-#19a~—Jo To Proffesor Bhaer Transition
+Dear Professor Bhaer: I've been wanting to write you.
+#19a~-Jo To Proffesor Bhaer Transition
 So much is happening here. My sister Meg is having a baby. My sister Beth is very
-frail. But I know I have it in me to make her better. I’ve decided to take her and my
+frail. But I know I have it in me to make her better. I've decided to take her and my
 mother to Cape Cod - to Falmouth - for a few days. Given all that is happening here,
-I don’t know when [ can return to New York. I miss it. I miss those volatile
-exchanges we had. I miss -’
+I don't know when [ can return to New York. I miss it. I miss those volatile
+exchanges we had. I miss -'
 (The scene segues to MRS. KIRK'S BOARDING HOUSE: where PROFESSOR
 BHAER is reading the letter)
 PROFESSOR BHAER & JO
@@ -3136,9 +3197,9 @@ world. 1 too would like to change the world.
 (HE looks up)
 PROFFESOR BHAER
 , Yes, of course.
-#2?0-—How I Am
+#2?0--How I Am
 (HE reads from the beginning again)
-‘And how are you, sir?”
+'And how are you, sir?”
 SHE ASKS HOW I AM.
 AND SO: HOW AM I?
 MY DAYS ARE THE USUAL DAYS.
@@ -3157,21 +3218,21 @@ OF THE MEANING OF LIFE.
 LITTLE WOMEN
 (PROFESSOR BHAER)
 WHAT MORE COULD I WANT?
-SO WHY IS IT LATELY I FIND I’M UNEASY ALL THROUGH THE NIGHT?
+SO WHY IS IT LATELY I FIND I'M UNEASY ALL THROUGH THE NIGHT?
 AND WHY EVEN NOW DOES MY SKIN FEEL EXPLOSIVE AS DYNAMITE?
 WHY DOES MY HEART POUND
 LIKE A BATTERING RAM?
 HOW CAN SHE ASK ME HOW I AM?
 HOW I AMIS FINE!
 (HE writes.)
-‘DEAR MISS MARCH, THERE IS NOTHING DRAMATIC OR NEW TO REPORT.
+'DEAR MISS MARCH, THERE IS NOTHING DRAMATIC OR NEW TO REPORT.
 THIS WILL BE SHORT.
 MORNING AND EVENING I LIVE IN MY USUAL WAY.
 ON THE DAY YOU RETURN YOU WILL SEE FOR YOURSELF!
 TELL ME, MISS MARCH, ARE YOU HAPPY SO FAR FROM THE CLANG
 AND THE BEAT OF OUR TURBULENT STREET?
 QUITE OFTEN I THINK OF OUR DAYS IN NEW YORK.
-THOUGH OF COURSE SINCE YOU WENT I HAVE BEEN QUITE CONTENT.’
+THOUGH OF COURSE SINCE YOU WENT I HAVE BEEN QUITE CONTENT.'
 (HE tears the note to pieces.)
 ACH!
 I WAKE IN THE MORNING AND ALL THAT I HEAR
@@ -3194,12 +3255,12 @@ TIME GOES BY. ;
 YET LATELY I FIND THERE IS PLEASURE IN HUMMING A SILLY TUNE.
 AND SOME DAYS | GO TO THE PARK AND I SIT THERE ALL AFTERNOON.
 SOME EVENINGS I SWEAR
-LitTLce WOMEN ~ 87 —
+LitTLce WOMEN ~ 87 -
 (PROFESSOR BHAER)
 |! CAN HEAR A DOOR SLAM.
 THE HOUSE IS FAR TOO QUIET NOW.
 THAT 1S HOW I AM.
-#20a—To The Beach
+#20a-To The Beach
 SCENE 3
 (A BEACH AND PAVILION IN FALMOUTH ON CAPE COD. September 1865.
 MARMEE witeels BETH on in a beach stroller)
@@ -3210,13 +3271,13 @@ BETH
 a larmee, it's so beautiful - the waves, and all the shells.
 MARMEE
 (SHE picks up a shell and gives it to Beth)
-I believe this one’s a thousand years old, listen Beth. Remember how we always
+I believe this one's a thousand years old, listen Beth. Remember how we always
 talked about coming to Cape Cod.
 BETH
-‘And now Jo with her ‘wee literary earnings,’ as she calls it, has brought us.
+'And now Jo with her 'wee literary earnings,' as she calls it, has brought us.
 MARMEE
 I'm so happy to be here with you. Promise me, Beth, whatever's got hold of you,
-you'll continue to fight it.’
+you'll continue to fight it.'
 JO
 (SHE rushes on with a basket full of stuff)
 Look what I bought! A kite for my Beth. Look at the tail? I told the man I wanted
@@ -3225,7 +3286,7 @@ BETH
 That is the most beautiful kite I have ever seen.
 MARMEE
 [ shall leave you two.
-88 — LITTLE WOMEN
+88 - LITTLE WOMEN
 JO BETH
 No, Marmee! Stay.
 MARMEE
@@ -3239,7 +3300,7 @@ together.
 BETH
 Tell me again about New York.
 JO
-It’s a circus.
+It's a circus.
 BETH
 (laughs)
 A circus?
@@ -3249,7 +3310,7 @@ the street. And museums. And theaters, Beth, everywhere.
 BETH
 And the women - are they shameless?
 ite)
-Some of them anyway. It’s an amazing place, Beth. I’m going to take you there.
+Some of them anyway. It's an amazing place, Beth. I'm going to take you there.
 BETH
 (laughs)
 To New York?
@@ -3261,33 +3322,33 @@ BETH
 Jo, I have something for you. Marmee says this shell is over a thousand years old.
 And I believe that once upon a time it had an amazing life. If you put it to your ear,
 it talks to you.
-LiTTLeE WOMEN - 89 —
+LiTTLeE WOMEN - 89 -
 JO
 hat does it say?
 BETH
-It says, ‘We grow up too fast,’ You're a woman of the world now. I’m so proud of you, Jo.
-#21—Some Things Are Meant To Be
+It says, 'We grow up too fast,' You're a woman of the world now. I'm so proud of you, Jo.
+#21-Some Things Are Meant To Be
 JO
 When vou were first born, not an hour old, I told Marmee -
 BETH
-‘Beth is mine!’
+'Beth is mine!'
 Jo
 Evervone has someone special in the world, and I have you. My sweet Beth, give me
 a task to do!
-BETH ‘
-LET’S PRETEND
-WE’RE RIDING ON A KITE.
-LET’S IMAGINE
-WE’RE FLYING THROUGH THE AIR.
+BETH '
+LET'S PRETEND
+WE'RE RIDING ON A KITE.
+LET'S IMAGINE
+WE'RE FLYING THROUGH THE AIR.
 Jo
 (SHE sends the kite into the air)
-WE’LL ASCEND
-UNTIL WE’RE OUT OF SIGHT.
-LIGHT AS PAPER, WE’LL SOAR.
+WE'LL ASCEND
+UNTIL WE'RE OUT OF SIGHT.
+LIGHT AS PAPER, WE'LL SOAR.
 BETH
-LET’S BE WILD, UP HIGH ABOVE THE SAND.
+LET'S BE WILD, UP HIGH ABOVE THE SAND.
 FEEL THE WIND, THE WORLD AT OUR COMMAND.
-LET’S ENJOY THE VIEW AND NEVER LAND.
+LET'S ENJOY THE VIEW AND NEVER LAND.
 Jo
 FLOATING FAR FROM THE SHORE.
 BETH
@@ -3296,7 +3357,7 @@ THE CLOUDS MOVING FAST AND FREE.
 Jo
 THE SUN ON A SILVER SEA.
 BETH & JO
-A SKY THAT’S BRIGHT AND BLUE.
+A SKY THAT'S BRIGHT AND BLUE.
 LITTLE WOMEN
 BETH
 AND SOME THINGS WILL NEVER END:
@@ -3305,7 +3366,7 @@ THE THRILL OF OUR MAGIC RIDE.
 . . BETH
 THE LOVE THAT | FEEL INSIDE FOR YOU.
 jo
-WE’LL CLIMB HIGH
+WE'LL CLIMB HIGH
 BEYOND THE BREAK OF DAY.
 BETH
 SLEEP ON STARDUST
@@ -3314,7 +3375,7 @@ JO
 YOU AND I
 WILL FIND THE MILKY WAY.
 JO & BETH
-WE’LL BE MAD AND EXPLORE.
+WE'LL BE MAD AND EXPLORE.
 BETH
 WE'LL RECLINE,
 JO
@@ -3330,14 +3391,14 @@ DART ABOUT,
 JO & BETH
 SAIL ON WITH WINDY EASE.
 PASS THE DAYS DOING ONLY AS WE PLEASE.
-THAT’S WHAT LIVING IS FOR.
+THAT'S WHAT LIVING IS FOR.
 LiItTLeE WOMEN 91
 BETH
 Can I tell you a secret?
 JO
 Anything.
 BETH
-| never made plans about what I would do when I grew up. And I’m not afraid to
+| never made plans about what I would do when I grew up. And I'm not afraid to
 die. The hardest part, Jo, is leaving you.
 JO
 I won't let it happen. You'll get better. You will.
@@ -3358,13 +3419,13 @@ AMY returns from Europe with AUNT MARCH. SHE rushes in excited, holding an
 armful of things. SHE looks different, having left Concord a child and returned a
 young woman) 7 . \y
 AMY
-Everybody? I’m home!
+Everybody? I'm home!
 AUNT MARCH
 Look at this house!
 AMY
 Marmee! Jo!
 AUNT MARCH
-We left it in shambles - and it’s still in shambles.
+We left it in shambles - and it's still in shambles.
 AMY
 Meg!
 92 _ LITTLE WOMEN
@@ -3402,17 +3463,17 @@ Very good.
 MEG
 (Surprised. Entering)
 Amy?!
-LITTLE WOMEN — 93
+LITTLE WOMEN - 93
 AMY
 oO (Rushing to her)
-Meg! Meg! Meg! It’s really you?
+Meg! Meg! Meg! It's really you?
 MEG
 (calls)
 Marmee!
 MEG AMY
-Let me look at you. You’re so beautiful. Let me look at you.
+Let me look at you. You're so beautiful. Let me look at you.
 AMY
-You're a mother now. Twins. I can’t believe it.
+You're a mother now. Twins. I can't believe it.
 AMY
 Marmee! Marmee! Marmce!
 MEG
@@ -3425,13 +3486,13 @@ MARMEE
 You're all grown up.
 AMY
 (full of emotion)
-Tam, Marmece. T really am. I feel older. I’m sophisticated. You can’t imagine all the experiences f had. And wherever I was, I‘d think if only Meg were here, if only Jo, if only Beth-
+Tam, Marmece. T really am. I feel older. I'm sophisticated. You can't imagine all the experiences f had. And wherever I was, I'd think if only Meg were here, if only Jo, if only Beth-
 (SHE holds back tears)
 MARMEE
 (consoltity)
 Amy -
 AMY
-I was so sorry I wasn’t here to say goodbye to her. I cried for weeks. [ couldn’t stop. Aunt March said I was being unreasonable. But my heart was breaking not to
+I was so sorry I wasn't here to say goodbye to her. I cried for weeks. [ couldn't stop. Aunt March said I was being unreasonable. But my heart was breaking not to
 aere with her
 94 _ LITTLE WOMEN
 Jo
@@ -3445,20 +3506,20 @@ She said tell Amy not to fret.
 AMY
 Did she really say that?
 JO
-She was so brave - to the very end. You’d have been proud of her.
+She was so brave - to the very end. You'd have been proud of her.
 AMY
-I'd bought her this metronome. The man said there wasn’t another one like it...
+I'd bought her this metronome. The man said there wasn't another one like it...
 (SHE pulls herself together)
 Where did we get that magnificent piano?
 JO
 Mr. Laurence gave it to Beth.
 AMY
-He’s a dear, isn’t he? It’s so good to be home. In our dear house.
+He's a dear, isn't he? It's so good to be home. In our dear house.
 (Taking up some of her things)
 MARMEE
 Come, Amy. Show us what you brought back.
 AMY
-It’s a king’s ransom. [ have so many things to tell you all. I ate frogs, actual frogs.
+It's a king's ransom. [ have so many things to tell you all. I ate frogs, actual frogs.
 And how is John? Is he still romantic?
 MEG
 More so.
@@ -3472,21 +3533,21 @@ LiTTLE WOMEN 95
 jo
 © Laurie?
 (HE stops, seeing Jo)
-T hadn’t realized you were coming back too.
+T hadn't realized you were coming back too.
 LAURIE
 Yes. We all sailed on the same ship.
 (HE puts down the luggage)
 ice)
 You look different.
 LAURIE
-Do I? I’m taller. An inch or so.
+Do I? I'm taller. An inch or so.
 jo
 It was so good of you to comfort Amy and Aunt March after our loss of Beth.
 LAURIE
-When I heard the news I was devastated. I] didn’t come to see you when I was in
+When I heard the news I was devastated. I] didn't come to see you when I was in
 New York. I wanted to. I thought of it -
 JO
-1 don’t blame you, Laurie. I was horrible to you. I was so unfeeling.
+1 don't blame you, Laurie. I was horrible to you. I was so unfeeling.
 LAURIE
 You said what you felt.
 JO
@@ -3501,18 +3562,18 @@ JO
 (laughs)
 Really? ... 've missed you.
 LAURIE
-ve missed you too. You know, I’ve learned something about myself.
+ve missed you too. You know, I've learned something about myself.
 JO
 What's that?
-— 96 —- LITTLE WOMEN
+- 96 -- LITTLE WOMEN
 LAURIE
-I was never meant ‘to fly on golden wings.’
+I was never meant 'to fly on golden wings.'
 JO
 Who is?
 LAURIE
 You. You, Jo. You were meant to soar. Me? - I was meant for more mundane things.
-I’ve decided to go into grandfather's business. I know it’s the last thing in
-the world I would have thought for myself. But the truth is, I’m sort of fascinated
+I've decided to go into grandfather's business. I know it's the last thing in
+the world I would have thought for myself. But the truth is, I'm sort of fascinated
 with the prospects. I shall be wily and shrewd...
 AMY
 _(SHE comtes back)
@@ -3522,7 +3583,7 @@ LAURIE
 Amy, did you tell Jo?
 JO
 Tell me what?
-#22-—The Most Amazing Thing
+#22--The Most Amazing Thing
 AMY
 THE MOST AMAZING THING...
 LAURIE
@@ -3571,7 +3632,7 @@ JO
 So...tell me...who proposed to whom?
 AMY
 know? We were trying to be so discreet about it.
-98 — LITTLE WOMEN
+98 - LITTLE WOMEN
 LAURIE
 (relieved, excited)
 AMAZING!
@@ -3605,7 +3666,7 @@ WE'LL BE MARRIED IN THE SPRING.
 LitrTtre WOMEN 99
 LAURIE & AMY
 WHO EVER THOUGHT IN ALL THE WORLD
-WE’D FALL IN LOVE AND YET WE DID.
+WE'D FALL IN LOVE AND YET WE DID.
 AMY
 {T WAS AMAZING.
 LAURIE
@@ -3630,29 +3691,29 @@ AMY
 (To Jo)
 Thad always thought of Laurie as yours.
 JO
-He’s never been mine. He’s always been one of us.
+He's never been mine. He's always been one of us.
 AMY
-Jo - Jo, I brought this for you. It’s a book of my drawings.
+Jo - Jo, I brought this for you. It's a book of my drawings.
 I drew all the things you should have seen. All the churches and palaces and
 mountains...1 want you to have them.
 (JO takes the book)
 fe)
-Amy, I can’t.
-—- 100 —- LITTLE WOMEN
+Amy, I can't.
+-- 100 -- LITTLE WOMEN
 AMY
 Yes, you can. We'll be close, Jo. That will never change.
 JO
 Never.
 (AMY starts out)
 Amy, thank you. Your drawings are beautiful.
-#22a—To The Attic
+#22a-To The Attic
 (AMY turns back, smiles and goes. JO looks at all the things, at the piano, and the
 baby things Meg has left about, and the drawings.
 SHE goes up to THE ATTIC: #6. SHE has not been there for months. Everything is
 covered with sheets or blankets. SHE starts to breaks down, catches herself.
 MARMEE enters. SHE looks at Jo)
 MARMEE
-It’s been awhile since you’ ve been up here.
+It's been awhile since you' ve been up here.
 JO
 I know.
 MARMEE
@@ -3660,18 +3721,18 @@ The room needs an airing. And a dusting.
 JO
 I'll get to it.
 MARMEE
-The attic used to be such a sanctuary for you. Whenever you were sad or disappointed, you’d run up here, bolt the door, and come back hours later so full of life. [
-haven’t seen that Jo in a long time.
+The attic used to be such a sanctuary for you. Whenever you were sad or disappointed, you'd run up here, bolt the door, and come back hours later so full of life. [
+haven't seen that Jo in a long time.
 | ite |
-_. I can’t write. I can’t do anything really. You're right, in the past I could always
-come up with something. I was always so good at that. Beth would say, ‘Jo can
+_. I can't write. I can't do anything really. You're right, in the past I could always
+come up with something. I was always so good at that. Beth would say, 'Jo can
 make the clouds disappear.
 (SHE cries out)
 T want Beth back!
 (SHE struggles - manages to collect herself)
 [ never should have broken the promise. I never should have gone to New York. If
 I'd stayed here -
-LitTte WOMEN - 101 ~—
+LitTte WOMEN - 101 ~-
 MARMEE
 Jo -
 Jo
@@ -3681,15 +3742,15 @@ Jo, stop it! No one could have done more for Beth than you did. You could not ha
 fe)
 How do you manage? How do you go on day-in, day-out, as if nothing has happened?
 _ MARMEE
-You think that’s how I go on?
+You think that's how I go on?
 Jo
 You're strong and wise. How can I be like you? How can I find your strength?
-#23 — Days Of Plenty
+#23 - Days Of Plenty
 MARMEE
-Don’t make so much of me, Jo.
+Don't make so much of me, Jo.
 I NEVER DREAMED OF THIS SORROW.
-1 NEVER THOUGHT I’D HAVE REASON TO LAMENT.
-1 HOPED I’D NEVER KNOW HEARTBREAK.
+1 NEVER THOUGHT I'D HAVE REASON TO LAMENT.
+1 HOPED I'D NEVER KNOW HEARTBREAK.
 HOW I WISH | COULD CHANGE THE WAY THINGS WENT.
 | WANTED NOTHING BUT GOODNESS.
 | WANTED REASON TO PREVAIL.
@@ -3709,16 +3770,16 @@ YOU CAN'T LET THIS DEFEAT YOU.
 - 102 -LITTLE WOMEN
 (SHE goes.
 (MARMEE)
-| WON’T LET THIS DEFEAT YOU.
+| WON'T LET THIS DEFEAT YOU.
 YOU MUST FIGHT TO KEEP HER THERE WITHIN YOU.
 SO BELIEVE THAT SHE MATTERED
 AND BELIEVE THAT SHE ALWAYS WILL.
 SHE WILL ALWAYS BE WITH YOU.
-SHE’LL BE PART OF THE DAYS YOU’VE YET TO FILL.
+SHE'LL BE PART OF THE DAYS YOU'VE YET TO FILL.
 SHE WILL LIVE IN YOUR BOUNTY.
 SHE WILL LIVE AS YOU CARRY ON YOUR LIFE.
 SO CARRY ON FULL OF HOPE.
-SHE’LL BE THERE .
+SHE'LL BE THERE .
 FOR ALL YOUR DAYS OF PLENTY.
 JO is alone in the attic.)
 #24 ~The Fire Within Me
@@ -3745,9 +3806,9 @@ THE ROOM BECAME OUR CITADEL.
 WE WERE AMAZING THEN
 MY SISTERS AND I.
 THEY WERE THE FIRE WITHIN ME.
-LitTTteE WOMEN —- FO} -—
+LitTTteE WOMEN -- FO} --
 (JO)
-— IN THIS ROOM I KNEW WE WERE ALIVE.
+- IN THIS ROOM I KNEW WE WERE ALIVE.
 NOTHING WAS TOO PAINFUL TO SURVIVE.
 WE FACED THE WORLD TOGETHER,
 THE FOUR OF US FOREVER SIDE BY SIDE.
@@ -3756,16 +3817,16 @@ I WAS THEIRS NO MATTER WHERE OR WHEN.
 HOW CAN THAT BE LOST FOREVER?
 HOW WHEN I GAVE EVERYTHING WITH ALL MY HEART? ~
 (SHE pulls the sheets off of everything, letting in the light. SHE gets an idea.)
-‘It was several days before Christmas.’
+'It was several days before Christmas.'
 (Suddenly the idea deepens. SHE writes with passion.)
-It was several days before Christmas. The sisters sat about the parlor and grumbled about their fate. Meg, the oldest and most romantic, said, ‘It’s not fair some girls have pretty things while we have nothing.’ ‘It won’t be Christmas without presents,’ said Amy, with her usual pout. ‘And we haven't got Father to read to us,’ said Jo, who yearned to travel and write great books. ‘Only Beth, sitting contented, said, in a tone so sweet even angels would have listened, ‘But we've got each other’
+It was several days before Christmas. The sisters sat about the parlor and grumbled about their fate. Meg, the oldest and most romantic, said, 'It's not fair some girls have pretty things while we have nothing.' 'It won't be Christmas without presents,' said Amy, with her usual pout. 'And we haven't got Father to read to us,' said Jo, who yearned to travel and write great books. 'Only Beth, sitting contented, said, in a tone so sweet even angels would have listened, 'But we've got each other'
 EVERYTHING I PROMISED THEM IS HERE.
 ALL OF US THE WAY WE USED TO BE.
 WE WILL ALWAYS HAVE EACH OTHER.
 THEY WILL ALWAYS BE THE FIRE IN MY HEART.
-HERE I GO AND THERE’S NO TURNING BACK:
+HERE I GO AND THERE'S NO TURNING BACK:
 MY GREAT ADVENTURE HAS BEGUN.
-I MAY BE SMALL BUT I’VE GOT GIANT PLANS
+I MAY BE SMALL BUT I'VE GOT GIANT PLANS
 TO SHINE AS BRIGHTLY AS THE SUN.
 HERE IN ALL THE SMALLEST DETAILS OF THE PAST,
 HERE IN THIS ATTIC, SUDDENLY LIFE IS SOMETHING VAST.
@@ -3773,19 +3834,19 @@ THE FOUR OF US FOREVER HERE AT LAST.
 AS UNEXPECTED AS CAN BE.
 ASTONISHING.
 (SHE continues to write feverishly)
-#24a— After Fire Within Me
+#24a- After Fire Within Me
 SCENE 5
 “~~ (OUTSIDE THE MARCH HOUSE. Spring 1866.
 104 = LITTLE WOMEN
 [t is the morning of Amy's wedding. JOHN is on a stool fixing the arbor, which is full
 of flowers. MEG is handing him some final decorations)
 MEG
-‘Will we ever get through this day?
+'Will we ever get through this day?
 MR. BROOKE
 This day will be magnificent. Soon Laurie and Amy will be in wedded bliss.
 (AMY rushes out of the house in her wedding dress)
 AMY
-Meg! Look at me! I can’t get married looking like this. The dress is not tres beau!
+Meg! Look at me! I can't get married looking like this. The dress is not tres beau!
 MEG
 The dress is very tres beau.
 AMY
@@ -3794,14 +3855,14 @@ Why did I choose white for the flowers?
 MARMEE
 Amy, come, let me finish your hair.
 AMY
-I’ve made all the wrong choices for the wedding, Marmee. The flowers, this dress -
+I've made all the wrong choices for the wedding, Marmee. The flowers, this dress -
 MR. BROOKE
 You look like a Madonna.
 AMY
 (a discovery)
 Merci, John.
 (As SHE goes off very lady-like)
-It was all Laurie’s idea to have the wedding at our very petite maison. And I can
+It was all Laurie's idea to have the wedding at our very petite maison. And I can
 deny mon amour nothing.
 MARMEE
 Why is she speaking French?
@@ -3820,9 +3881,9 @@ MARMEE
 (calls)
 Amy, darling! Are you ready? Amy, Aunt March will be here soon!
 MR. LAURENCE
-You don’t want to miss your train.
+You don't want to miss your train.
 MARMEE
-I'll need a few more minutes. I’m waiting for Jo. Tell me I’m doing the right thing.
+I'll need a few more minutes. I'm waiting for Jo. Tell me I'm doing the right thing.
 MR. LAURENCE
 You're doing the right thing.
 MARMEE
@@ -3830,7 +3891,7 @@ I've never left my girls before.
 -MR. LAURENCE
 Your husband has pneumonia and needs you with him in Washington.
 MARMEE
-I feel like I’m being torn in two. One part of me here, the other part -
+I feel like I'm being torn in two. One part of me here, the other part -
 MR. LAURENCE
 I'll look in on the girls every day.
 MARMEE
@@ -3843,7 +3904,7 @@ BETH
 Morning, sir.
 (Te Ntarimee)
 [ fixed vou a basket of food.
-106 — LITTLE WOMEN
+106 - LITTLE WOMEN
 AUNT MARCH
 Where is Josephine?
 MEG
@@ -3861,7 +3922,7 @@ I suppose you realize this could have been your day.
 JO
 You think I made a ghastly mistake?
 AUNT MARCH
-I do not. Amy and Laurie are ideally suited to each other.... I’ve gone over my will.
+I do not. Amy and Laurie are ideally suited to each other.... I've gone over my will.
 JO
 (not wanting to discuss this)
 Aunt March -
@@ -3869,29 +3930,29 @@ AUNT MARCH
 Meg will inherit most of my money. Amy is making her way into society and won't
 need any of it. And as for you -
 JO
-I don’t want -
+I don't want -
 AUNT MARCH
-I know, you don’t want anything. And yet you want everything. Josephine, every
-girl - every woman - needs something to fall back on when times are bleak. I’m
+I know, you don't want anything. And yet you want everything. Josephine, every
+girl - every woman - needs something to fall back on when times are bleak. I'm
 leaving you my house.
 JO
 Your house?
 AUNT MARCH
 Do something worthwhile with it. Make a library of it. Or a school.
-LITTLE WOMEN —~ 107 -
+LITTLE WOMEN -~ 107 -
 JO
 at's very generous of you..... Thank you, Aunt March.
 (SHE kisses her awkwardly on the cheek)
 AUNT MARCH
-[don’t like that dress. —
+[don't like that dress. -
 JO
-It’s one of your old ones.
+It's one of your old ones.
 AUNT MARCH
 Well, it looked better on me.
 (SHE goes. MEG comes out)
 MEG
-Jo, there’s a strange man at the front gate asking for you.
-24b — Professor Bhaer Entrance
+Jo, there's a strange man at the front gate asking for you.
+24b - Professor Bhaer Entrance
 (SHE goes back inside. JO goes one way. PROFESSOR BHAER enters from another. HE holds a tied up ream of paper and an umbrella. JO turns)
 jo
 (surprised)
@@ -3910,9 +3971,9 @@ Jo
 No -
 PROFESSOR BHAER
 Lam not intruding?
-108 — LITTLE WOMEN
+108 - LITTLE WOMEN
 O
-You’ re not intruding.... Come inside, I'll sntroduce you -
+You' re not intruding.... Come inside, I'll sntroduce you -
 PROFESSOR BHAER
 (stopping her)
 No. Not yet...
@@ -3945,29 +4006,29 @@ They made a party for me. I get sick. I do not like parties.
 (HE moves uncomfortably about. HE turns to her)
 | brought back your manuscript. It was so good of you to send the book to me. A novel?
 JO
-There’s no one who’s opinion I respect more than yours. Forgive me for presuming -
-LiItTTLe Women - 109 —
+There's no one who's opinion I respect more than yours. Forgive me for presuming -
+LiItTTLe Women - 109 -
 PROFESSOR BHAER
-— (coming right in)
+- (coming right in)
 It touched me deeply, Miss March. I saw you on every page. I heard your voice. I felt your spirit. It was magnificent! ,
 (MEG rushes in)
 MEG
-Jo, Amy is driving me insane. Now she’s talking about changing her veil.
+Jo, Amy is driving me insane. Now she's talking about changing her veil.
 (SHE sees Professor Bhaer)
 Oh, excuse me.
 Jo. This is my sister Meg. This is Professor Bhacr.
 PROFESSOR BHAER
-Aah, yes, I recognize you now from your sister’s book.
+Aah, yes, I recognize you now from your sister's book.
 MEG
 (with a smile)
-So you're the one she’s let read it.
+So you're the one she's let read it.
 Jo
 Ihr be right there.
 (MEG goes)
 PROFESSOR BHAER
 I have come at a bad time.
 JO
-No, it’s just a wedding.
+No, it's just a wedding.
 PROFESSOR BHAER
 A wedding?
 JO
@@ -3978,17 +4039,17 @@ I bought a kite.
 JO
 You bought a kite?
 _ PROFESSOR BHAER Soon after you left. I bought a kite and took it to the park. IT never had a kite. You know you were right to think I was old. I was old.
-— 110 - LITTLE WOMEN
+- 110 - LITTLE WOMEN
 JO
 No, I -
 PROFESSOR BHAER
 I was. But since we meet - everything is different. Everybody noticed. My
-students even. They say, ‘Professor Bhaer, you are smiling today.’ Miss March -
+students even. They say, 'Professor Bhaer, you are smiling today.' Miss March -
 JO
 Jo.
 PROFESSOR BHAER
 Jo. We are not at all alike.
-#25 —Small Umbrella In The Rain
+#25 -Small Umbrella In The Rain
 We have our differences. May I be blunt?
 jo
 Be blunt. By all means.
@@ -4000,7 +4061,7 @@ THE SKY GETS BLUER BY THE HOUR.
 PROFESSOR BHAER
 THE WATER FALLS IN LITTLE DROPS.
 JO
-THAT’S WHY IT’S CALLED A SUN SHOWER.
+THAT'S WHY IT'S CALLED A SUN SHOWER.
 PROFESSOR BHAER
 AH, AND NOW IT STOPS...
 (HE fidgets more)
@@ -4009,7 +4070,7 @@ You were about to be blunt?
 PROFESSOR BHAER
 IF 1} SAY RAIN, THEN YOU SAY SUN.
 IF 1 SAY YES, THEN YOU SAY NO.
-IT SEEMS BEFORE WE START, WE’RE DONE.
+IT SEEMS BEFORE WE START, WE'RE DONE.
 WE EVEN ARGUE AT “HELLO”
 {F 1 SAY, SHARE WITH ME THIS SMALL UMBRELLA.
 LiTtTTce WOMEN ~ 111
@@ -4031,7 +4092,7 @@ YOU MAKE ME CARE.
 HOW CAN I EXPLAIN?
 INSIDE MY HEART
 I FEEL A PAIN
-WHEN YOU’RE NOT THERE.
+WHEN YOU'RE NOT THERE.
 THOUGH WE ARE NOT AT ALL ALIKE,
 YOU MAKE ME FEEL ALIVE.
 IF WE HAD THAT IN COMMON,
@@ -4048,7 +4109,7 @@ The guests will be arriving soon. I want the family gathered in the parlor. And 
 who are you?
 Jo
 This is my Aunt March. This is Professor Bhaer.
-112 —- LITTLE WOMEN
+112 -- LITTLE WOMEN
 PROFESSOR BHAER
 Call me Fritz.
 JO
@@ -4065,7 +4126,7 @@ You were saying, Fritz?
 PROFESSOR BHAER
 _(Nervous again)
 WHEN PEOPLE DISCOVER PASSION,
-THEY’ VE COME UPON SOMETHING RARE.
+THEY' VE COME UPON SOMETHING RARE.
 THIS FERVOR THEY HAVE IN COMMON,
 WILL SHELTER THEM ANYWHERE.
 THOUGH THE REST MAY BE ROUGH,
@@ -4078,11 +4139,11 @@ PROFESSOR BHAER
 No. Yes! Yes! I do not mean today. Or tomorrow. Or even next month. In a year
 maybe. Two years even. I am a patient man.
 JO
-| WON’T BE SWEET, WON’T BE DEMURE.
+| WON'T BE SWEET, WON'T BE DEMURE.
 PROFESSOR BHAER
 THIS | PREFER, THIS | ADORE.
 JO
-‘LLSPEAK MY MIND, YOU CAN BE SURE.
+'LLSPEAK MY MIND, YOU CAN BE SURE.
 LITTLE WOMEN ie)
 (It starts to
 PROFESSOR BHAER
@@ -4092,7 +4153,7 @@ IF I SAY, LET ME SHARE YOUR SMALL UMBRELLA.
 PROFESSOR BHAER
 I'LL SAY, WHO CARES IF WE GET WET?
 Jo
-WE’LL BE AS DIFFERENT AS A HUSBAND AND A WIFE.
+WE'LL BE AS DIFFERENT AS A HUSBAND AND A WIFE.
 PROFESSOR BHAER
 NO, WE'LL BE DIFFERENT AS A WOMAN AND A MAN.
 JO
@@ -4103,7 +4164,7 @@ JO
 AND YET...
 rain. HE opens his umbrella. THEY stand together under it.)
 JO & PROFESSOR BHAER
-YOU’LL MAKE ME SMILE, ,
+YOU'LL MAKE ME SMILE, ,
 YOU'LL MAKE ME LAUGH,
 YOU'LL MAKE ME CARE.
 HOW CAN I EXPLAIN?
@@ -4131,7 +4192,7 @@ Blunt to a fault.
 , jo
 What did he say?
 PROFESSOR BHAER
-He said: ‘It’s a bit long. He missed the blood and guts. He likes the four sisters -
+He said: 'It's a bit long. He missed the blood and guts. He likes the four sisters -
 particularly the outspoken one.
 (HE kisses her again)
 He wants to publish it. ; jo
@@ -4153,8 +4214,8 @@ JO
 Not today. Or next week. But someday.
 MARMEE
 Welcome, Professor. Come and meet our family.
-LITTLE WOMEN - 115 —-
-6 — Volcano Reprise
+LITTLE WOMEN - 115 --
+6 - Volcano Reprise
 Jo
 (Alone. SHE picks up the umbrella)
 SOMETIMES WHEN YOU DREAM
@@ -4164,7 +4225,7 @@ SUDDENLY A DAY CAN BE SO AMAZING.
 AND SOMETIMES WHEN YOU YEARN
 YOU BURN THE AIR.
 AND THEN YOU ARE NOT THE SAME...
-AND THE WORLD IS—
+AND THE WORLD IS-
 PROFESSOR BHAER
 (HE comes back out)
 Jo, we are all waiting for you.
@@ -4172,4 +4233,4 @@ Jo, we are all waiting for you.
 (End of Act Two)
 Ne
 27-~- Bows
-#28—Exit Music
+#28-Exit Music
