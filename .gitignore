@@ -1,9 +1,15 @@
 # Environment files
 .env
 
+# Database files
+*.db
+
 # Virtual environment
 .venv
 .python-version
 
 set/
 *.pdf
+
+.obsidian
+.nicegui
