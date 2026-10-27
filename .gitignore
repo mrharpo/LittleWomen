@@ -13,3 +13,9 @@ set/
 
 .obsidian
 .nicegui
+
+# Backups
+bk/
+
+*.tmix
+*.db

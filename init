@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sr shows create "Little Women" --venue ECHS-PAC
+
+sr scripts add "Little Women" --format fountain --file ./scripts/LittleWomen.fountain

@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.inFolder("Design/Sources/paintings")
+        - file.ext == "jpg"
+    image: file.file

@@ -11,7 +11,9 @@ path = "LittleWomen.db"
 # storage-secret = "showrunner"
 
 [logging]
-# level = "DEBUG"
+file = "show.log"
+file_level = "DEBUG"
+file_format = "{time} | {level: <8} | {name} | {message}"
 
 [paths]
 # scripts = "./scripts"

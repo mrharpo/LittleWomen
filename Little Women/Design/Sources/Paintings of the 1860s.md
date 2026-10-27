@@ -1,0 +1,3 @@
+### Frederich Edwin Church![[frederic-edwin-church-rainy-season-in-the-tropics-1866-trivium-art-history.jpg]]
+![[frederic-edwin-church-the-icebergs-1861-trivium-art-history.jpg]]
+![[frederic-edwin-church-el-rio-de-luz-the-river-of-light-1877-trivium-art-history.jpg]]![[frederic-edwin-church-aurora-borealis-1865-trivium-art-history.jpg]]![[frederic_edwin_church-cotopaxi-1862-trivium-art-history-1.jpg]]

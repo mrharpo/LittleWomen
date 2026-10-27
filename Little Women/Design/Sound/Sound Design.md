@@ -1,0 +1,32 @@
+## Todo
+- [x] [[Mics]]
+- [ ] Sounds
+	- [x] Thunder
+		- [x] rumble
+		- [x] crack
+	- [x] Rain
+	- [x] Judge
+	- [x] City
+	- [x] Fluorescent 
+	- [x] gavel
+- [x] Music
+	- [x] End moment jazz
+	- [x] Preshow?
+
+- [ ] Setup reference mic
+- [x] #Dante
+	- [x] Check license
+	- [x] Setup sound vlan
+	- [x] QLab -> board
+	- [x] board -> recorder
+- [x] QLab
+	- [x] License
+- [x] Surround sound
+	- [x] Setup front fills
+	- [x] Setup rear fills
+	- [x] Patch in sound board
+	- [x] Patch in #Dante
+	- [x] Create #QLab audio map
+	- [x] Test in theatre
+- [ ] Ardour
+	- [ ] Setup template
