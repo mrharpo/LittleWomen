@@ -13,12 +13,16 @@ dependencies = [
 ]
 
 [dependency-groups]
-dev = ["uploadserver>=6.0.3"]
+dev = [
+    "adjusttext>=1.4.0",
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "uploadserver>=6.0.3",
+]
 
 [tool.uv.sources]
 showrunner = { path = "../ShowRunner", editable = true }
 theatremix = { path = "../TheatreMix-python", editable = true }
 showeos = { path = "../ShowEOS", editable = true }
 showanimator = { path = "../ShowAnimator", editable = true }
-qlab = { path = "../qlab-python", editable = true }
-# theatremix = { git = "https://github.com/quaternionmedia/TheatreMix-python", branch = "showrunner" }
+qlab = { path = "../QLab-python", editable = true }
