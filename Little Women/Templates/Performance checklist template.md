@@ -1,15 +1,17 @@
 ---
-created: "{{ date }} {{ time }}"
-date: "{{ date }}"
+created: "{{date}} {{time}}"
+date: "{{date}}"
 tags:
   - performance
 curtain:
-start:
-end:
+curtain speech:
+Act I:
+intermission:
+Act II:
+bows:
+end of show:
 ---
-<%* const folder = app.vault.getAbstractFileByPath("Shows"); const n = folder ? folder.children.length : 1; await tp.file.rename("Performance " + n + " - " + moment().format("dddd")); -%>
-# Performance <% n %>
-## {{ date:dddd, MMMM D, YYYY }}
+# {{date:dddd, MMMM D, YYYY}}
 
 ---
 ## Preflight
@@ -21,9 +23,11 @@ end:
 	- [ ] Advanced mode
 	- [ ] > Video
 	    - [ ] PC -> Projector
+	    - [ ] PC -> Audio
 	    - [ ] Camera -> BOH 1
 	    - [ ] Camera -> BOH 2
 	    - [ ] Camera -> Lobby
+	    - [ ] Camera -> Stream
 	  - [ ] > Settings
 	    - [ ] Projector screen up
 	- [ ] > Volume
@@ -36,8 +40,8 @@ end:
 	- [ ] Start sound board
 	- [ ] Load showfile
 	- [ ] Turn on front fills
-	- [ ] Verify front fill levels at 12:00
-	- [ ] Verify booth monitors
+	- [ ] Verify front fill levels at 3:00
+	- [ ] Turn on booth monitors
 - [ ] Lights
 	- [ ] Start light board
 	- [ ] Load showfile
@@ -48,12 +52,9 @@ end:
 	- [ ] QLab
 		- [ ] Load QLab showfile
 		- [ ] Preflight cue list
-		- [ ] `a0` Verify sound plays through speakers
 		- [ ] `s0` Verify TheatreMix responds
 		- [ ] `0.1` Verify lighting console responds
 		- [ ] `v1` Verify projection onstage
-		- [ ] `r0.1` Verify recording starts
-		- [ ] `r0.2` Verify recording stops
 	- [ ] TheatreMix
 		- [ ] Load TheatreMix showfile
 		- [ ] Connect TheatreMix to Sound board
@@ -61,6 +62,9 @@ end:
 		- [ ] Verify soundboard channels changed to actor names
 		- [ ] Load cue `0.1`
 		- [ ] Verify Main channel strip reads `0.1`
+	- [ ] OpenSoundMeter
+		- [ ] Start OSM
+		- [ ] Confirm reference mic signal
 	- [ ] Ardour
 		- [ ] Start Ardour
 		- [ ] Create new from show template
@@ -78,7 +82,6 @@ end:
 - [ ] goto `1` House open
 - [ ] Crestron 1 > unmute lobby
 - [ ] Crestron 2 > House out
-- [ ] Set clock to `4:05`
 
 ---
 ## Curtain speech
@@ -115,3 +118,5 @@ end:
 - [ ] Lock Equipment room
 - [ ] Lock Tech booth
 - [ ] Lock PAC
+
+## Notes
