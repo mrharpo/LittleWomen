@@ -10,7 +10,7 @@ path = "LittleWomen.db"
 # port = 8000
 # storage-secret = "showrunner"
 
-[logging]
+[plugins.showlogger]
 file = "show.log"
 file_level = "DEBUG"
 file_format = "{time} | {level: <8} | {name} | {message}"

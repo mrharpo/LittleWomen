@@ -11,13 +11,15 @@
 ### #admin
 - [ ] Filter/sort options in list view
 ## Bugs
-- [ ] `Cue.point` should be `default=None`
+- [x] `Cue.point` should be `default=None` ✅ 2026-11-06
 ### #QLab
 - [x] Lighting cues: use `/eos/user/99/` ✅ 2026-10-20
+- [ ] 
 ### #ShowPrinter #plugin
 - [x] Export to pdf
 - [x] Configure export layout
 ### #ShowEOS
-- [ ] Console sync
+- [x] Console sync ✅ 2026-11-06
+- [ ] Live sync
 ### #ShowAnimator
 - [x] First POC ✅ 2026-10-20

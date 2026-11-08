@@ -4,6 +4,7 @@ date: "{{date}}"
 tags:
   - performance
 curtain:
+house open:
 curtain speech:
 Act I:
 intermission:
@@ -31,6 +32,8 @@ end of show:
 	  - [ ] > Settings
 	    - [ ] Projector screen up
 	- [ ] > Volume
+		- [ ] Boost dressing room volume
+		- [ ] Boost lobby volume
 		- [ ] Mute lobby
 - [ ] 2nd Crestron
 	- [ ] House full
